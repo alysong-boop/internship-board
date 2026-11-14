@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Summer 2027 R&amp;D Internships</title>
+<style>
+  :root {
+    --bg: #f6f5f1; --card: #ffffff; --ink: #1c1d1f; --muted: #666a70; --line: #e2e0d9;
+    --accent: #1f5f4a; --accent-soft: #e3efe9;
+    --food: #9a5b00; --food-bg: #fbefd8; --pharma: #2a4d8f; --pharma-bg: #e3ebf9; --adjacent: #6b3f8f; --adjacent-bg: #efe5f7;
+    --ok: #17663a; --ok-bg: #dff3e6; --warn: #8a3b12; --warn-bg: #fbe6da; --new: #b3261e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #15171a; --card: #1e2125; --ink: #ecebe7; --muted: #9a9ea6; --line: #30343a;
+      --accent: #7fd1b0; --accent-soft: #1d3a31;
+      --food: #f0c078; --food-bg: #3a2c12; --pharma: #a9c3f5; --pharma-bg: #1c2a45; --adjacent: #d3b3ee; --adjacent-bg: #30213f;
+      --ok: #8ddba8; --ok-bg: #173524; --warn: #f2b192; --warn-bg: #40241a; --new: #ff8a80;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 1040px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { font-size: 24px; margin: 0 0 4px; letter-spacing: -0.01em; }
+  h2 { font-size: 17px; margin: 40px 0 6px; }
+  a { color: var(--accent); }
+  .sub { color: var(--muted); font-size: 13.5px; }
+  .counts { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 18px; }
+  .pill { display: inline-block; padding: 2px 9px; border-radius: 999px; font-size: 12.5px; font-weight: 600; white-space: nowrap; }
+  .food { color: var(--food); background: var(--food-bg); } .pharma { color: var(--pharma); background: var(--pharma-bg); }
+  .adjacent { color: var(--adjacent); background: var(--adjacent-bg); }
+  .ok { color: var(--ok); background: var(--ok-bg); } .warn { color: var(--warn); background: var(--warn-bg); }
+  .plain { color: var(--muted); background: transparent; border: 1px solid var(--line); }
+  .filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; padding: 12px;
+             background: var(--card); border: 1px solid var(--line); border-radius: 10px; position: sticky; top: 0; z-index: 2; }
+  .filters input[type=search] { grid-column: 1 / -1; }
+  input[type=search], select { width: 100%; padding: 7px 9px; font: inherit; color: var(--ink); background: var(--bg);
+                               border: 1px solid var(--line); border-radius: 7px; }
+  label.check { display: flex; align-items: center; gap: 6px; font-size: 14px; white-space: nowrap; }
+  #summary { margin: 14px 2px 8px; }
+  .row { display: grid; grid-template-columns: 1fr auto; gap: 6px 14px; padding: 12px 14px; background: var(--card);
+         border: 1px solid var(--line); border-radius: 10px; margin-bottom: 8px; }
+  .row.closed { opacity: 0.55; }
+  .row.s-notfit { opacity: 0.5; }
+  .row.s-applied { border-left: 4px solid var(--ok); }
+  .row.s-interested { border-left: 4px solid var(--accent); }
+  .title { font-weight: 600; font-size: 15.5px; text-decoration: none; overflow-wrap: anywhere; }
+  .title:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: 13.5px; margin-top: 2px; overflow-wrap: anywhere; }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 7px; }
+  .new { color: var(--new); font-size: 11.5px; font-weight: 800; letter-spacing: 0.06em; margin-right: 6px; }
+  .side { text-align: right; min-width: 128px; }
+  .side select { width: auto; font-size: 13px; padding: 4px 6px; }
+  .manual { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 8px; margin-top: 10px; }
+  .manual a { display: block; padding: 9px 12px; background: var(--card); border: 1px solid var(--line); border-radius: 9px; text-decoration: none; }
+  .manual small { display: block; color: var(--muted); }
+  .empty { padding: 28px; text-align: center; color: var(--muted); }
+  @media (max-width: 560px) { .row { grid-template-columns: 1fr; } .side { text-align: left; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>Summer 2027 R&amp;D Internships</h1>
+  <div class="sub" id="updated">Loading…</div>
+  <div class="counts" id="counts"></div>
+
+  <div class="filters">
+    <input type="search" id="q" placeholder="Search title, company, location, keyword…" aria-label="Search">
+    <select id="industry" aria-label="Industry"><option value="">All industries</option></select>
+    <select id="company" aria-label="Company"><option value="">All companies</option></select>
+    <select id="elig" aria-label="Eligibility"><option value="">Any eligibility</option></select>
+    <select id="state" aria-label="Open or closed">
+      <option value="open">Open only</option><option value="closed">Closed only</option><option value="">Open + closed</option>
+    </select>
+    <select id="mine" aria-label="My status">
+      <option value="">Any of my statuses</option><option value="none">No status yet</option>
+      <option value="interested">Interested</option><option value="applied">Applied</option><option value="notfit">Not a fit</option>
+    </select>
+    <select id="sort" aria-label="Sort">
+      <option value="new">Newest first</option><option value="score">Best match first</option><option value="company">Company A–Z</option>
+    </select>
+    <label class="check"><input type="checkbox" id="remote"> Remote only</label>
+    <label class="check"><input type="checkbox" id="week"> New in last 7 days</label>
+  </div>
+
+  <div class="sub" id="summary"></div>
+  <div id="list"></div>
+
+  <h2>Manual check</h2>
+  <div class="sub">These companies have no public job feed, so they are not tracked automatically. Check their careers pages directly.</div>
+  <div class="manual" id="manual"></div>
+  <div class="sub" id="failed" style="margin-top:28px"></div>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+const KEY = "internship-status-v1";
+const DAY = 86400000;
+let DATA = { postings: [], manual: [], counts: {} };
+
+// Per-posting status lives only in this browser. Private mode / blocked storage must not break the page.
+function loadStatus() { try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; } }
+function saveStatus(s) { try { localStorage.setItem(KEY, JSON.stringify(s)); } catch (e) { /* not saved; page still works */ } }
+let STATUS = loadStatus();
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const ageDays = d => (Date.now() - new Date(d + "T00:00:00").getTime()) / DAY;
+const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "#";
+
+function fill(sel, values) {
+  for (const v of values) { const o = document.createElement("option"); o.value = v; o.textContent = v; sel.appendChild(o); }
+}
+
+function render() {
+  const q = $("q").value.trim().toLowerCase();
+  const f = { industry: $("industry").value, company: $("company").value, elig: $("elig").value,
+              state: $("state").value, mine: $("mine").value, remote: $("remote").checked, week: $("week").checked };
+  let rows = DATA.postings.filter(p => {
+    if (f.industry && p.industry !== f.industry) return false;
+    if (f.company && p.company !== f.company) return false;
+    if (f.elig && p.eligibility_flag !== f.elig) return false;
+    if (f.state && p.status !== f.state) return false;
+    if (f.remote && !p.remote) return false;
+    if (f.week && ageDays(p.first_seen) > 7) return false;
+    const mine = STATUS[p.id] || "none";
+    if (f.mine && mine !== f.mine) return false;
+    if (q) {
+      const hay = [p.title, p.company, p.location, p.industry, p.term, (p.matched || []).join(" ")].join(" ").toLowerCase();
+      if (!q.split(/\s+/).every(w => hay.includes(w))) return false;
+    }
+    return true;
+  });
+  const sort = $("sort").value;
+  rows.sort((a, b) =>
+    sort === "score" ? (b.score || 0) - (a.score || 0) :
+    sort === "company" ? a.company.localeCompare(b.company) || a.title.localeCompare(b.title) :
+    b.first_seen.localeCompare(a.first_seen) || (b.score || 0) - (a.score || 0));
+
+  $("summary").textContent = `Showing ${rows.length} of ${DATA.postings.length} postings`;
+  $("list").innerHTML = rows.length ? rows.map(card).join("") : '<div class="empty">Nothing matches these filters.</div>';
+}
+
+function card(p) {
+  const mine = STATUS[p.id] || "";
+  const eligClass = p.eligibility_flag === "rising junior OK" ? "ok" : p.eligibility_flag === "seniors only" ? "warn" : "plain";
+  const isNew = p.status === "open" && ageDays(p.first_seen) < 3;
+  const opt = (v, label) => `<option value="${v}"${mine === v ? " selected" : ""}>${label}</option>`;
+  return `<div class="row ${p.status === "closed" ? "closed" : ""} ${mine ? "s-" + mine : ""}">
+    <div>
+      ${isNew ? '<span class="new">NEW</span>' : ""}<a class="title" href="${esc(safeUrl(p.url))}" target="_blank" rel="noopener">${esc(p.title)}</a>
+      <div class="meta">${esc(p.company)} · ${esc(p.location || "Location not listed")}</div>
+      <div class="tags">
+        <span class="pill ${esc(p.industry)}">${esc(p.industry)}</span>
+        <span class="pill ${eligClass}">${esc(p.eligibility_flag)}</span>
+        <span class="pill plain">${esc(p.term)}</span>
+        ${p.remote ? '<span class="pill plain">remote</span>' : ""}
+        ${p.status === "closed" ? '<span class="pill plain">closed</span>' : ""}
+      </div>
+    </div>
+    <div class="side">
+      <select data-id="${esc(p.id)}" aria-label="My status for this posting">
+        ${opt("", "No status")}${opt("interested", "Interested")}${opt("applied", "Applied")}${opt("notfit", "Not a fit")}
+      </select>
+      <div class="meta">${p.status === "closed" ? "Last seen " + esc(p.last_seen) : "First seen " + esc(p.first_seen)}${p.posted ? "<br>Posted " + esc(p.posted) : ""}</div>
+    </div>
+  </div>`;
+}
+
+$("list").addEventListener("change", e => {
+  const id = e.target.dataset && e.target.dataset.id;
+  if (!id) return;
+  if (e.target.value) STATUS[id] = e.target.value; else delete STATUS[id];
+  saveStatus(STATUS);
+  render();
+});
+for (const id of ["q", "industry", "company", "elig", "state", "mine", "sort", "remote", "week"]) {
+  $(id).addEventListener(id === "q" ? "input" : "change", render);
+}
+
+fetch("data.json", { cache: "no-store" }).then(r => r.json()).then(d => {
+  DATA = d;
+  const when = d.updated ? new Date(d.updated) : null;
+  $("updated").textContent = when
+    ? "Last updated " + when.toLocaleString([], { dateStyle: "medium", timeStyle: "short" }) + " · refreshes daily around 6 AM Eastern"
+    : "Not updated yet";
+  const open = d.postings.filter(p => p.status === "open").length;
+  $("counts").innerHTML = `<span class="pill plain">${open} open</span>` +
+    Object.entries(d.counts || {}).sort().map(([k, v]) => `<span class="pill ${esc(k)}">${esc(k)} ${v}</span>`).join("");
+  fill($("industry"), [...new Set(d.postings.map(p => p.industry))].sort());
+  fill($("company"), [...new Set(d.postings.map(p => p.company))].sort());
+  fill($("elig"), ["rising junior OK", "unclear", "seniors only"]);
+  $("manual").innerHTML = (d.manual || []).map(m =>
+    `<a href="${esc(safeUrl(m.url))}" target="_blank" rel="noopener">${esc(m.name)}<small>${esc(m.industry)}${m.note ? " · " + esc(m.note) : ""}</small></a>`).join("");
+  if ((d.failed || []).length) {
+    $("failed").textContent = "Sources that failed on the last run: " + d.failed.map(f => f.split(":")[0]).join(", ");
+  }
+  render();
+}).catch(() => { $("updated").textContent = "Could not load data.json"; });
+</script>
+</body>
+</html>

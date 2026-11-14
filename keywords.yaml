@@ -1,0 +1,117 @@
+# keywords.yaml: everything the filter uses. Edit freely; no code changes needed.
+# Matching is case-insensitive and whole-word ("intern" will not match "internal"),
+# except short ALL-CAPS words (HR, IT, CMC, MBA), which must match in capitals.
+# A trailing "s" is allowed automatically, and spaces also match hyphens.
+
+profile:
+  target_term: "Summer 2027"
+  grad_year: 2029            # used for the eligibility flag
+
+# 1. Must be an internship / co-op (checked in the TITLE).
+internship_title: [intern, internship, co-op, coop, co op]
+
+# 2. Must match at least one of these in the title,
+#    or at least `description_min_hits` different ones in the description.
+description_min_hits: 2
+include:
+  - R&D
+  - research
+  - formulation
+  - product development
+  - process development
+  - process engineering
+  - food science
+  - analytical
+  - chemical engineering
+  - CMC
+  - drug product
+  - drug substance
+  - bioprocess
+  - upstream
+  - downstream
+  - manufacturing science
+  - packaging science
+  - sensory
+  - nutrition science
+
+# 3. Dropped if the TITLE contains any of these.
+exclude_title:
+  - sales
+  - marketing
+  - finance
+  - financial
+  - accounting
+  - HR
+  - human resources
+  - talent acquisition
+  - IT
+  - information technology
+  - software
+  - cybersecurity
+  - legal
+  - commercial
+  - MBA
+  - PhD
+  - Ph.D
+  - doctoral
+  - postdoc
+  - PharmD
+
+# Phrases that are fine even though they contain an excluded word.
+exclude_exceptions:
+  - commercial manufacturing
+  - commercial scale
+
+# Dropped as "PhD-only" if the description has one of these and none of the undergrad words.
+phd_only_phrases:
+  - enrolled in a phd
+  - pursuing a phd
+  - phd student
+  - phd candidate
+  - doctoral student
+  - doctoral candidate
+undergrad_words: [bachelor, undergraduate, undergrad, BS, B.S, BA, sophomore, junior]
+
+# Eligibility flag (labels only; nothing is dropped on this).
+eligibility:
+  ok_phrases:
+    - sophomore
+    - rising junior
+    - second year
+    - 2nd year
+  seniors_phrases:
+    - rising senior
+    - juniors and seniors
+    - junior or senior
+    - junior standing
+    - penultimate year
+    - entering their final year
+    - entering your final year
+    - one year remaining
+
+# Location: a posting with one of these and no US marker is treated as non-US.
+non_us_hints:
+  - canada
+  - mexico
+  - united kingdom
+  - ireland
+  - germany
+  - france
+  - switzerland
+  - india
+  - china
+  - japan
+  - singapore
+  - brazil
+  - netherlands
+  - belgium
+  - spain
+  - italy
+  - denmark
+  - sweden
+  - australia
+  - puerto rico
+
+# SimplifyJobs community list: true = only use it for companies in companies.yaml
+# that have no direct feed ("manual"); false = also keep any other company that passes the filter.
+simplify_only_listed_companies: true

@@ -1,0 +1,96 @@
+# companies.yaml: which job feed each company is pulled from.
+#
+# ats:       workday | greenhouse | smartrecruiters | lever | ashby | manual
+# verified:  live          = endpoint returned real postings on 2026-11-13
+#            live-2026-11-10 = returned real postings on 2026-11-10 (earlier build of this board);
+#                            could not be re-tested on 2026-11-13 because Workday's wd1/wd5 data
+#                            centers were returning HTTP 521 for every company that day
+# Workday endpoint = https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs  (POST)
+# manual = no usable public feed; the board just links careers_url.
+
+supplementary:
+  simplifyjobs:
+    # Confirmed to exist: 17,660 listings, each tagged with terms like "Summer 2027".
+    # Also catches "manual" companies (PepsiCo, Nestlé, ...) whenever the community lists them.
+    url: https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json
+    verified: live
+
+companies:
+  # ───────────── Pharma / biotech ─────────────
+  - {name: Pfizer, industry: pharma, ats: workday, tenant: pfizer, dc: wd1, site: PfizerCareers, verified: live-2026-11-10}
+  - {name: Merck, industry: pharma, ats: workday, tenant: msd, dc: wd5, site: SearchJobs, verified: live-2026-11-10}
+  - {name: Johnson & Johnson (Innovative Medicine), industry: pharma, ats: workday, tenant: jj, dc: wd5, site: JJ, verified: live-2026-11-10}
+  - {name: AbbVie, industry: pharma, ats: smartrecruiters, company_id: AbbVie, verified: live}
+  - {name: Eli Lilly, industry: pharma, ats: workday, tenant: lilly, dc: wd115, sites: [LLY, CMP], verified: live}
+  - {name: Bristol Myers Squibb, industry: pharma, ats: workday, tenant: bristolmyerssquibb, dc: wd5, site: BMS, verified: live-2026-11-10}
+  - {name: Amgen, industry: pharma, ats: workday, tenant: amgen, dc: wd1, site: Careers, verified: live-2026-11-10}
+  - {name: Gilead, industry: pharma, ats: workday, tenant: gilead, dc: wd1, site: gileadcareers, verified: live-2026-11-10}
+  - {name: Regeneron, industry: pharma, ats: workday, tenant: regeneron, dc: wd1, site: Careers, verified: live-2026-11-10}
+  - {name: Genentech / Roche, industry: pharma, ats: workday, tenant: roche, dc: wd3, sites: [roche-ext, ROG-A2O-GENE], verified: live}
+  - {name: Novartis, industry: pharma, ats: workday, tenant: novartis, dc: wd3, site: Novartis_Careers, verified: live}
+  - {name: AstraZeneca, industry: pharma, ats: workday, tenant: astrazeneca, dc: wd3, site: Careers, verified: live}
+  - {name: GSK, industry: pharma, ats: workday, tenant: gsk, dc: wd5, site: GSKCareers, verified: live-2026-11-10}
+  - {name: Sanofi, industry: pharma, ats: workday, tenant: sanofi, dc: wd3, site: SanofiCareers, verified: live}
+  - {name: Takeda, industry: pharma, ats: workday, tenant: takeda, dc: wd502, site: External, verified: live}
+  - {name: Moderna, industry: pharma, ats: workday, tenant: modernatx, dc: wd1, site: M_tx, verified: live-2026-11-10}
+  - {name: Vertex, industry: pharma, ats: workday, tenant: vrtx, dc: wd501, site: Vertex_Careers, verified: live}
+  - {name: Biogen, industry: pharma, ats: workday, tenant: biibhr, dc: wd3, site: external, verified: live}
+  - {name: Novo Nordisk, industry: pharma, ats: manual, careers_url: "https://www.novonordisk-us.com/careers/find-a-job.html", note: SAP SuccessFactors}
+  - {name: Thermo Fisher, industry: pharma, ats: workday, tenant: thermofisher, dc: wd5, site: ThermoFisherCareers, verified: live-2026-11-10}
+  - {name: Lonza, industry: pharma, ats: workday, tenant: lonza, dc: wd3, site: Lonza_Careers, verified: live}
+  - {name: Catalent, industry: pharma, ats: workday, tenant: catalent, dc: wd1, site: External, verified: live-2026-11-10}
+  # Added by Claude (bioprocess-heavy, public Greenhouse boards)
+  - {name: Ginkgo Bioworks, industry: pharma, ats: greenhouse, token: ginkgobioworks, verified: live, added: true}
+  - {name: National Resilience, industry: pharma, ats: greenhouse, token: resilience, verified: live, added: true}
+  - {name: Kite Pharma (Gilead), industry: pharma, ats: workday, tenant: gilead, dc: wd1, site: kitepharmacareers, verified: live-2026-11-10, added: true}
+  - {name: CSL, industry: pharma, ats: workday, tenant: csl, dc: wd1, site: CSL_External, verified: live-2026-11-10, added: true}
+  - {name: Zoetis, industry: pharma, ats: workday, tenant: zoetis, dc: wd5, site: zoetis, verified: live-2026-11-10, added: true}
+  - {name: Elanco, industry: pharma, ats: workday, tenant: elanco, dc: wd5, site: External_Career, verified: live-2026-11-10, added: true}
+  - {name: Sarepta, industry: pharma, ats: workday, tenant: sarepta, dc: wd5, site: sarepta_external, verified: live-2026-11-10, added: true}
+
+  # ───────────── Food / ingredients ─────────────
+  - {name: PepsiCo, industry: food, ats: manual, careers_url: "https://www.pepsicojobs.com/main/jobs", note: iCIMS}
+  - {name: Kraft Heinz, industry: food, ats: workday, tenant: heinz, dc: wd1, site: KraftHeinz_Careers, verified: live-2026-11-10, aliases: [The Kraft Heinz Company]}
+  - {name: General Mills, industry: food, ats: workday, tenant: genmills, dc: wd1, site: GMI_External_Careers, verified: live-2026-11-10}
+  - {name: Mars, industry: food, ats: workday, tenant: mars, dc: wd3, site: External, verified: live}
+  - {name: Kellanova, industry: food, ats: manual, careers_url: "https://jobs.kellanova.com/search/", note: SAP SuccessFactors}
+  - {name: Nestlé, aliases: [Nestle, Nestle USA, Nestlé USA], industry: food, ats: manual, careers_url: "https://www.nestlejobs.com/", note: SAP SuccessFactors}
+  - {name: Mondelez, industry: food, ats: workday, tenant: mdlz, dc: wd3, site: External, verified: live}
+  - {name: Conagra, industry: food, ats: workday, tenant: conagrabrands, dc: wd1, site: Careers_US, verified: live-2026-11-10}
+  - {name: Hershey, aliases: [The Hershey Company, Hershey's], industry: food, ats: manual, careers_url: "https://careers.thehersheycompany.com/", note: SAP SuccessFactors}
+  - {name: Campbell's, industry: food, ats: workday, tenant: campbellsoup, dc: wd5, site: ExternalCareers_GlobalSite, verified: live-2026-11-10}
+  - {name: Tyson, industry: food, ats: workday, tenant: tysonfoods, dc: wd5, site: TSN, verified: live-2026-11-10}
+  - {name: Cargill, industry: food, ats: manual, careers_url: "https://careers.cargill.com/en/search-jobs", note: SAP SuccessFactors}
+  - {name: ADM, aliases: [Archer Daniels Midland], industry: food, ats: manual, careers_url: "https://www.adm.com/en-us/culture-and-careers/", note: BrassRing}
+  - {name: Ingredion, industry: food, ats: workday, tenant: ingredion, dc: wd1, site: IngredionCareers, verified: live-2026-11-10}
+  - {name: IFF, industry: food, ats: workday, tenant: iff, dc: wd5, site: IFF_Careers, verified: live-2026-11-10}
+  - {name: Givaudan, industry: food, ats: manual, careers_url: "https://careers.givaudan.com/global/en", note: Phenom front end with no public feed}
+  - {name: Kerry, aliases: [Kerry Group], industry: food, ats: manual, careers_url: "https://jobs.kerry.com/", note: SAP SuccessFactors}
+  - {name: Tate & Lyle, industry: food, ats: workday, tenant: tateandlyle, dc: wd3, site: TLCareers, verified: live}
+  - {name: McCormick, aliases: [McCormick & Company], industry: food, ats: manual, careers_url: "https://careers.mccormick.com/search-jobs", note: SAP SuccessFactors}
+  - {name: Danone, aliases: [Danone North America], industry: food, ats: manual, careers_url: "https://careers.danone.com/en-global/jobs.html", note: custom careers site}
+  - {name: Post Holdings, aliases: [Post Consumer Brands], industry: food, ats: manual, careers_url: "https://jobs.postholdings.com/jobs", note: iCIMS}
+  # Added by Claude (functional beverage, public Greenhouse board)
+  - {name: Olipop, industry: food, ats: greenhouse, token: olipop, verified: live, added: true}
+  - {name: J.M. Smucker, industry: food, ats: workday, tenant: smucker, dc: wd5, site: US_External_Careers, verified: live-2026-11-10, added: true}
+  - {name: Coca-Cola, industry: food, ats: workday, tenant: coke, dc: wd1, site: coca-cola-careers, verified: live-2026-11-10, added: true}
+  - {name: Land O'Lakes, industry: food, ats: workday, tenant: landolakes, dc: wd1, site: landolakes, verified: live-2026-11-10, added: true}
+
+  # ───────────── Adjacent (nutrition / consumer health / CPG R&D) ─────────────
+  - {name: Abbott, industry: adjacent, ats: workday, tenant: abbott, dc: wd5, site: abbottcareers, verified: live-2026-11-10}
+  - {name: Procter & Gamble, industry: adjacent, ats: workday, tenant: pg, dc: wd5, site: "1000", verified: live-2026-11-10}
+  - name: Unilever
+    industry: adjacent
+    ats: workday
+    tenant: unilever
+    dc: wd3
+    sites: [Unilever_Experienced_Professionals, Unilever_Early_Careers]   # internships appear on both
+    verified: live
+  - {name: Colgate-Palmolive, aliases: [Colgate, Colgate Palmolive], industry: adjacent, ats: manual, careers_url: "https://jobs.colgate.com/search/", note: SAP SuccessFactors}
+  - {name: Kenvue, industry: adjacent, ats: workday, tenant: kenvue, dc: wd5, site: kenvue, verified: live-2026-11-10}
+  - {name: Haleon, industry: adjacent, ats: workday, tenant: gsknch, dc: wd3, site: GSKCareers, verified: live}
+  - {name: Bayer (Consumer Health), aliases: [Bayer], industry: adjacent, ats: manual, careers_url: "https://talent.bayer.com/careers", note: Eightfold}
+  - {name: Perrigo, industry: adjacent, ats: manual, careers_url: "https://careers.perrigo.com/", note: SAP SuccessFactors}
+  - {name: Church & Dwight, industry: adjacent, ats: workday, tenant: churchdwight, dc: wd1, site: chdcareers, verified: live-2026-11-10, careers_url: "https://careers.churchdwight.com/jobs/"}
+  - {name: SC Johnson, industry: adjacent, ats: workday, tenant: scj, dc: wd5, site: External_Career_Site, verified: live-2026-11-10, added: true}
+  - {name: Clorox, industry: adjacent, ats: workday, tenant: clorox, dc: wd1, site: InviteClorox, verified: live-2026-11-10, added: true}

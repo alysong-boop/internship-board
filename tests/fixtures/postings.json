@@ -1,0 +1,57 @@
+[
+  {
+    "name": "food R&D intern, sophomores welcome",
+    "posting": {"title": "2027 Summer Intern - R&D Product Development", "location": "Minneapolis, MN",
+                "description": "Join our food science team. Open to sophomores and juniors pursuing a Bachelor's in Chemical Engineering or Food Science."},
+    "expect": {"keep": true, "term": "Summer 2027", "eligibility_flag": "rising junior OK"}
+  },
+  {
+    "name": "pharma process development co-op, grad date too early",
+    "posting": {"title": "Process Development Co-op", "location": "US - Massachusetts - Cambridge", "country": "United States of America",
+                "description": "Support drug substance process development. Candidates must have an expected graduation date between December 2027 and June 2028."},
+    "expect": {"keep": true, "term": "unspecified", "eligibility_flag": "seniors only"}
+  },
+  {
+    "name": "kept on description keywords only, eligibility unclear",
+    "posting": {"title": "Technical Operations Intern", "location": "Indianapolis, IN",
+                "description": "You will support formulation and analytical work on drug product programs alongside our scientists."},
+    "expect": {"keep": true, "term": "unspecified", "eligibility_flag": "unclear"}
+  },
+  {
+    "name": "marketing intern excluded by title",
+    "posting": {"title": "Marketing Intern", "location": "Chicago, IL", "description": "Work with R&D and research teams on product development."},
+    "expect": {"keep": false, "reason": "excluded word in title: marketing"}
+  },
+  {
+    "name": "not an internship (internal is not intern)",
+    "posting": {"title": "Senior Scientist, Internal Research", "location": "Boston, MA", "description": "Formulation research."},
+    "expect": {"keep": false, "reason": "not an internship (title)"}
+  },
+  {
+    "name": "non-US",
+    "posting": {"title": "R&D Intern", "location": "Basel", "country": "Switzerland", "description": "Formulation research."},
+    "expect": {"keep": false, "reason": "not US"}
+  },
+  {
+    "name": "wrong term in title",
+    "posting": {"title": "2027 Spring Co-op - Process Engineering", "location": "Cambridge, MA", "description": "Bioprocess work."},
+    "expect": {"keep": false, "reason": "different term"}
+  },
+  {
+    "name": "PhD-only by description",
+    "posting": {"title": "Research Intern, Formulation", "location": "South San Francisco, CA",
+                "description": "Must be currently enrolled in a PhD program in pharmaceutical sciences."},
+    "expect": {"keep": false, "reason": "PhD-only"}
+  },
+  {
+    "name": "single weak description keyword is not enough",
+    "posting": {"title": "Supply Chain Intern", "location": "Remote - United States", "description": "Strong analytical skills required."},
+    "expect": {"keep": false, "reason": "no R&D keywords"}
+  },
+  {
+    "name": "commercial manufacturing exception + remote flag + open-ended grad year",
+    "posting": {"title": "Commercial Manufacturing Process Engineering Intern (Remote)", "location": "Remote, USA",
+                "description": "Summer 2027 internship. Graduation date of December 2027 or later."},
+    "expect": {"keep": true, "term": "Summer 2027", "eligibility_flag": "rising junior OK", "remote": true}
+  }
+]
