@@ -1,6 +1,251 @@
 {
  "config_hash": "c435ec14dce1",
  "items": {
+  "Pfizer::4966876": {
+   "company": "Pfizer",
+   "title": "Data Analytics & AI Innovation Intern",
+   "location": "Colombia - Bogota - Suba",
+   "reason": "not US",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Colombia---Bogota---Suba/Data-Analytics---AI-Innovation-Intern_4966876"
+  },
+  "Pfizer::4964215": {
+   "company": "Pfizer",
+   "title": "Internship – APAC RIO (Regulatory)",
+   "location": "Malaysia - Kuala Lumpur",
+   "reason": "not US",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Malaysia---Kuala-Lumpur/Internship---APAC-RIO--Regulatory-_4964215"
+  },
+  "Merck::R416280": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program – Modeling & Informatics - Co-op",
+   "location": "USA - Massachusetts - Boston (MA Parcel B Laboratory); USA - California - South San Francisco (Gateway Blvd); USA - New Jersey - Rahway; USA - Pennsylvania - West Point; USA - California - South San Francisco (Grand Ave); USA - Massachusetts - Cambridge (320 Bent Street)",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2026-Future-Talent-Program---Modeling---Informatics---Co-op_R416280"
+  },
+  "Merck::R414564": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Global Safety & Environment - Intern",
+   "location": "USA - New Jersey - Rahway; USA - Pennsylvania - West Point",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Safety---Environment---Intern_R414564"
+  },
+  "Merck::R416472": {
+   "company": "Merck",
+   "title": "Clinical Trial Coordinator - Intern",
+   "location": "ISR - Central District of Israel - Hod Hasharon",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/ISR---Central-District-of-Israel---Hod-Hasharon/Clinical-Trial-Coordinator---Intern_R416472"
+  },
+  "Merck::R412853": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Vivarium - Co-Op",
+   "location": "USA - Pennsylvania - West Point",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vivarium-Co-Op_R412853"
+  },
+  "Merck::R426232": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Global Site Agreements - Intern",
+   "location": "USA - Pennsylvania - North Wales (Upper Gwynedd)",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Global-Site-Agreements---Intern_R426232"
+  },
+  "Merck::R414453": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Global Medical Affairs - Intern",
+   "location": "USA - Pennsylvania - North Wales (Upper Gwynedd)",
+   "reason": "PhD-only",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Global-Medical-Affairs---Intern_R414453"
+  },
+  "Merck::R425335": {
+   "company": "Merck",
+   "title": "Intern - HBO – Operational Excellence",
+   "location": "NLD - North Brabant - Boxmeer",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/NLD---North-Brabant---Boxmeer/Intern---HBO---Operational-Excellence_R425335-1"
+  },
+  "Merck::R425486": {
+   "company": "Merck",
+   "title": "Intern – HBO – Supplier Development & Performance Management",
+   "location": "NLD - North Holland - Haarlem",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/NLD---North-Holland---Haarlem/Intern---HBO---Supplier-Development---Performance-Management_R425486-1"
+  },
+  "Merck::R416101": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - 3DT Operations - Co-op",
+   "location": "USA - Pennsylvania - West Point",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---3DT-Operations---Co-op_R416101"
+  },
+  "Merck::R424526": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Patient Data Learning - Co-op",
+   "location": "USA - Massachusetts - Cambridge (320 Bent Street)",
+   "reason": "PhD-only",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526"
+  },
+  "Merck::R424236": {
+   "company": "Merck",
+   "title": "Intern – Master Statistics/Bioinformatics– Global Statistics and Data Management",
+   "location": "NLD - North Brabant - Boxmeer",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/NLD---North-Brabant---Boxmeer/Intern---Master-Statistics-Bioinformatics--Global-Statistics-and-Data-Management_R424236-1"
+  },
+  "Merck::R415029": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Global Supplier Management Group Business Ops - Co-op",
+   "location": "USA - Pennsylvania - West Point; USA - New Jersey - Rahway",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Business-Ops---Co-op_R415029"
+  },
+  "Merck::R415226": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Global Supplier Management Group Direct Advanced Strategy and Procurement - Co-op",
+   "location": "USA - New Jersey - Rahway; USA - Pennsylvania - West Point",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Direct-Advanced-Strategy-and-Procurement---Co-op_R415226"
+  },
+  "Merck::R415220": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Global Supplier Management Group Direct Procurement Global Operations Sourcing Co-op",
+   "location": "USA - Pennsylvania - West Point; USA - New Jersey - Rahway",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Direct-Procurement-Global-Operations-Sourcing-Co-op_R415220"
+  },
+  "Merck::R415296": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Global Workplace & Enterprise Services Global Real Estate (GRES) Co-op",
+   "location": "USA - New Jersey - Rahway",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296"
+  },
+  "Merck::R418839": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program Neuroscience Discovery Co-op",
+   "location": "USA - Pennsylvania - West Point",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program-Neuroscience-Discovery-Co-op_R418839"
+  },
+  "Merck::R413858": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - DNA Encoded Library - Co Op",
+   "location": "USA - New Jersey - Rahway",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---DNA-Encoded-Library---Co-Op_R413858"
+  },
+  "Merck::R423333": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Data, AI, and Genome Sciences - Intern",
+   "location": "USA - Massachusetts - Cambridge (320 Bent Street)",
+   "reason": "PhD-only",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences---Intern_R423333"
+  },
+  "Merck::R423515": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - AI/ML Biomedical Imaging and Computational Pathology - Intern",
+   "location": "USA - Massachusetts - Cambridge (320 Bent Street)",
+   "reason": "PhD-only",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515"
+  },
+  "Merck::R423438": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern",
+   "location": "USA - Massachusetts - Cambridge (320 Bent Street)",
+   "reason": "PhD-only",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438"
+  },
+  "Merck::R416917": {
+   "company": "Merck",
+   "title": "Regulatory Affairs Intern",
+   "location": "ARE - Dubai - Falak Building",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/ARE---Dubai---Falak-Building/Regulatory-Affairs-Intern_R416917"
+  },
+  "Merck::R422934": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - L&D (Learning & Development) Coordinator - Co-op",
+   "location": "USA - Pennsylvania - West Point",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---L-D--Learning---Development--Coordinator---Co-op_R422934"
+  },
+  "Merck::R421490": {
+   "company": "Merck",
+   "title": "Intern- Distribution, Logistics & Warehousing Quality Data Analyst",
+   "location": "SGP - Singapore - Singapore (Boulevard Towers)",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Intern--Distribution--Logistics---Warehousing-Quality-Data-Analyst_R421490"
+  },
+  "Merck::R401742": {
+   "company": "Merck",
+   "title": "Sustainability  Intern",
+   "location": "SGP - Singapore - Singapore (50 Tuas West Dr)",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-50-Tuas-West-Dr/Sustainability--Intern_R401742"
+  },
+  "Merck::R415707": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program - Discovery Oncology – Co-op (South San Francisco, CA)",
+   "location": "USA - California - South San Francisco (Grand Ave)",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Discovery-Oncology---Co-op--South-San-Francisco--CA-_R415707"
+  },
+  "Merck::R415703": {
+   "company": "Merck",
+   "title": "2027 Future Talent Program – Discovery Oncology – Intern (South San Francisco, CA)",
+   "location": "USA - California - South San Francisco (Grand Ave)",
+   "reason": "no R&D keywords",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Discovery-Oncology---Intern--South-San-Francisco--CA-_R415703"
+  },
+  "Merck::R413709": {
+   "company": "Merck",
+   "title": "Intern- Regulatory Affairs- CMC",
+   "location": "SGP - Singapore - Singapore (Boulevard Towers)",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Intern--Regulatory-Affairs--CMC_R413709"
+  },
+  "Merck::R403554": {
+   "company": "Merck",
+   "title": "Intern, D&L  Data Analyst",
+   "location": "SGP - Singapore - Singapore (Boulevard Towers)",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Intern--D-L--Data-Analyst_R403554"
+  },
+  "Merck::R402174": {
+   "company": "Merck",
+   "title": "Operations Intern",
+   "location": "SGP - Singapore - Singapore (50 Tuas West Dr)",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-50-Tuas-West-Dr/Operations-Intern_R402174"
+  },
+  "Merck::R402180": {
+   "company": "Merck",
+   "title": "Maintenance Engineer Intern",
+   "location": "SGP - Singapore - Singapore (50 Tuas West Dr)",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-50-Tuas-West-Dr/Maintenance-Engineer-Intern_R402180"
+  },
+  "Merck::R412179": {
+   "company": "Merck",
+   "title": "Global Clinical Trial Operations Intern",
+   "location": "SGP - Singapore - Singapore (Boulevard Towers)",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Global-Clinical-Trial-Operations-Intern_R412179"
+  },
+  "Merck::R396558": {
+   "company": "Merck",
+   "title": "Utilities Facilities Management Intern",
+   "location": "SGP - Singapore - Singapore (70 Tuas West Dr)",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-70-Tuas-West-Dr/Utilities-Facilities-Management-Intern_R396558"
+  },
+  "Merck::R400206": {
+   "company": "Merck",
+   "title": "Intern, D&L Trade Compliance Data Analyst",
+   "location": "SGP - Singapore - Singapore (Boulevard Towers)",
+   "reason": "not US",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Intern--D-L-Trade-Compliance-Data-Analyst_R400206"
+  },
   "AbbVie::3743990016433556": {
    "company": "AbbVie",
    "title": "2027 Technical Development Program Intern (Undergraduate)",
@@ -161,6 +406,41 @@
    "location": "Ireland, Cork",
    "reason": "not US",
    "url": "https://lilly.wd115.myworkdayjobs.com/CMP/job/Ireland-Cork/Intern---Trial-Capabilities-Cork--Portfolio-Support-Team_R-114283"
+  },
+  "Bristol Myers Squibb::R1608055": {
+   "company": "Bristol Myers Squibb",
+   "title": "Neuroscience Intern",
+   "location": "Cambridge Crossing - MA - US",
+   "reason": "PhD-only",
+   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Cambridge-Crossing---MA---US/Neuroscience-Intern_R1608055"
+  },
+  "Bristol Myers Squibb::R1607618": {
+   "company": "Bristol Myers Squibb",
+   "title": "Commercialization Intern (Summer 2027)",
+   "location": "Princeton - NJ - US",
+   "reason": "no R&D keywords",
+   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Commercialization-Intern--Summer-2027-_R1607618"
+  },
+  "Bristol Myers Squibb::R1608184": {
+   "company": "Bristol Myers Squibb",
+   "title": "Global Discovery Chemistry Intern",
+   "location": "San Diego - CA - US",
+   "reason": "no R&D keywords",
+   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/San-Diego---CA---US/Global-Discovery-Chemistry-Intern_R1608184"
+  },
+  "Bristol Myers Squibb::R1608215": {
+   "company": "Bristol Myers Squibb",
+   "title": "Data & Quantitative Sciences Intern-Summer 2027",
+   "location": "Princeton - NJ - US; Madison - Giralda - NJ - US; Seattle 400 Dexter - WA - US; Brisbane - CA - US; Cambridge Crossing - MA - US; San Diego - CA - US; Devens - MA - US",
+   "reason": "no R&D keywords",
+   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Data---Quantitative-Sciences-Intern-Summer-2027_R1608215"
+  },
+  "Bristol Myers Squibb::R1608542": {
+   "company": "Bristol Myers Squibb",
+   "title": "Data & Quantitative Sciences Statistical Programming Intern - Summer 2027",
+   "location": "Princeton - NJ - US; Madison - Giralda - NJ - US; Brisbane - CA - US; Cambridge Crossing - MA - US; Remote - United States - US; San Diego - CA - US; Seattle 1616 Eastlake - WA - US",
+   "reason": "no R&D keywords",
+   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Data---Quantitative-Sciences-Statistical-Programming-Intern---Summer-2027_R1608542"
   },
   "Genentech / Roche::202611-129030": {
    "company": "Genentech / Roche",
@@ -533,6 +813,27 @@
    "reason": "no R&D keywords",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--Real-World-Evidence-Hematology-Intern_R-263840"
   },
+  "GSK::451301": {
+   "company": "GSK",
+   "title": "Internship : Vaccines Distribution Planning, Belgium – 2027",
+   "location": "Belgium-Wavre",
+   "reason": "not US",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Belgium-Wavre/Internship---Vaccines-Distribution-Planning--Belgium---2027_451301"
+  },
+  "GSK::451563": {
+   "company": "GSK",
+   "title": "Register Your Interest – May/June/July to December 2027 Internship, Singapore",
+   "location": "Singapore - Rochester Park; Singapore - Tuas; Singapore - Jurong",
+   "reason": "not US",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Singapore---Rochester-Park/Register-Your-Interest---May-June-July-to-December-2027-Internship--Singapore_451563"
+  },
+  "GSK::451338": {
+   "company": "GSK",
+   "title": "QA Student Intern",
+   "location": "Mississauga Milverton Drive",
+   "reason": "not US",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Mississauga-Milverton-Drive/QA-Student-Intern_451338"
+  },
   "Takeda::R0192929": {
    "company": "Takeda",
    "title": "Coordination Intern",
@@ -546,6 +847,48 @@
    "location": "Tianjin, China",
    "reason": "not US",
    "url": "https://takeda.wd502.myworkdayjobs.com/External/job/Tianjin-China/Admin-Intern_R0194176"
+  },
+  "Moderna::Norwood, Massachusetts": {
+   "company": "Moderna",
+   "title": "Co-Op, Supply Chain & Logistics",
+   "location": "Norwood, Massachusetts; Supply Chain",
+   "reason": "no R&D keywords",
+   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Supply-Chain---Logistics_R19949"
+  },
+  "Moderna::Princeton, New Jersey": {
+   "company": "Moderna",
+   "title": "Intern, Biospecimen Logistics",
+   "location": "Princeton, New Jersey; Clinical Development",
+   "reason": "no R&D keywords",
+   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Princeton-New-Jersey/Intern--Biospecimen-Logistics_R19854"
+  },
+  "Moderna::Cambridge, Massachusetts": {
+   "company": "Moderna",
+   "title": "2027 Co-Op, mRNA Design Engineering",
+   "location": "Cambridge, Massachusetts; Clinical Development",
+   "reason": "no R&D keywords",
+   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20125"
+  },
+  "Moderna::Laval - Canada": {
+   "company": "Moderna",
+   "title": "Co-Op, Quality Assurance",
+   "location": "Laval - Canada; Quality",
+   "reason": "not US",
+   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Co-Op--Quality-Assurance_R19943"
+  },
+  "Moderna::Toronto - Canada": {
+   "company": "Moderna",
+   "title": "Intern, Operational Excellence",
+   "location": "Toronto - Canada; Commercial",
+   "reason": "not US",
+   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Toronto---Canada/Intern--Operational-Excellence_R20124"
+  },
+  "Moderna::Bethesda, Maryland": {
+   "company": "Moderna",
+   "title": "2027 Co-Op, Safety Epidemiology",
+   "location": "Bethesda, Maryland; Clinical Development",
+   "reason": "PhD-only",
+   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Bethesda-Maryland/XMLNAME-2027-Co-Op--Safety-Epidemiology_R20143"
   },
   "Vertex::REQ-30470": {
    "company": "Vertex",
@@ -652,6 +995,370 @@
    "reason": "no R&D keywords",
    "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Neuropsychiatry-Strategy---Operations_REQ24383"
   },
+  "Thermo Fisher::R-01367368": {
+   "company": "Thermo Fisher",
+   "title": "Quality Intern",
+   "location": "Carlsbad, California, USA; Plainville, Massachusetts, USA; Millersburg, Pennsylvania, USA",
+   "reason": "no R&D keywords",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Carlsbad-California-USA/Quality-Intern_R-01367368"
+  },
+  "Thermo Fisher::R-01373953": {
+   "company": "Thermo Fisher",
+   "title": "Clinical Research Associate Intern",
+   "location": "Ivry-sur-Seine, France",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ivry-sur-Seine-France/Clinical-Research-Associate-Intern_R-01373953"
+  },
+  "Thermo Fisher::R-01374032": {
+   "company": "Thermo Fisher",
+   "title": "Quality Systems & Compliance Intern",
+   "location": "Covingham, Swindon, United Kingdom",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covingham-Swindon-United-Kingdom/Quality-Systems---Compliance-Intern_R-01374032"
+  },
+  "Thermo Fisher::R-01374053": {
+   "company": "Thermo Fisher",
+   "title": "Reliability Engineer Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Reliability-Engineer-Intern_R-01374053"
+  },
+  "Thermo Fisher::R-01374030": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Sr. Supplier Quality Engineering",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Sr-Supplier-Quality-Engineering_R-01374030"
+  },
+  "Thermo Fisher::R-01374098": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Supplier Quality Engineer",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Supplier-Quality-Engineer_R-01374098"
+  },
+  "Thermo Fisher::R-01374025": {
+   "company": "Thermo Fisher",
+   "title": "Intern - System Engineering",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---System-Engineering_R-01374025"
+  },
+  "Thermo Fisher::R-01374100": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Quality & Regulatory Affairs",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Quality---Regulatory-Affairs_R-01374100"
+  },
+  "Thermo Fisher::R-01373972": {
+   "company": "Thermo Fisher",
+   "title": "EHS Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/EHS-Intern_R-01373972"
+  },
+  "Thermo Fisher::R-01374082": {
+   "company": "Thermo Fisher",
+   "title": "Intern - System Design Engineer",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---System-Design-Engineer_R-01374082"
+  },
+  "Thermo Fisher::R-01374063": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Demand Planner",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Demand-Planner_R-01374063"
+  },
+  "Thermo Fisher::R-01373994": {
+   "company": "Thermo Fisher",
+   "title": "Communications Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Communications-Intern_R-01373994"
+  },
+  "Thermo Fisher::R-01374115": {
+   "company": "Thermo Fisher",
+   "title": "Sr. digital science intern",
+   "location": "Eindhoven, Netherlands",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Sr-digital-science-intern_R-01374115"
+  },
+  "Thermo Fisher::R-01373996": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Mechanical Engineer",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Mechanical-Engineer_R-01373996-1"
+  },
+  "Thermo Fisher::R-01374051": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Business Intelligence & Analytics",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Business-Intelligence---Analytics_R-01374051"
+  },
+  "Thermo Fisher::R-01373955": {
+   "company": "Thermo Fisher",
+   "title": "Maintenance Analytics & Reliability Engineering Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Maintenance-Analytics---Reliability-Engineering-Intern_R-01373955"
+  },
+  "Thermo Fisher::R-01373967": {
+   "company": "Thermo Fisher",
+   "title": "Microbiology Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Microbiology-Intern_R-01373967"
+  },
+  "Thermo Fisher::R-01374045": {
+   "company": "Thermo Fisher",
+   "title": "Sr. GenAI Intern",
+   "location": "Eindhoven, Netherlands",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Sr-GenAI-Intern_R-01374045-1"
+  },
+  "Thermo Fisher::R-01373966": {
+   "company": "Thermo Fisher",
+   "title": "Quality Operations Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Quality-Operations-Intern_R-01373966"
+  },
+  "Thermo Fisher::R-01373968": {
+   "company": "Thermo Fisher",
+   "title": "Quality Control Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Quality-Control-Intern_R-01373968"
+  },
+  "Thermo Fisher::R-01373964": {
+   "company": "Thermo Fisher",
+   "title": "Lyo & Pharma Utilities Operator Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Lyo---Pharma-Utilities-Operator-Intern_R-01373964"
+  },
+  "Thermo Fisher::R-01374011": {
+   "company": "Thermo Fisher",
+   "title": "Technician Calibration Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Technician-Calibration-Intern_R-01374011"
+  },
+  "Thermo Fisher::R-01374061": {
+   "company": "Thermo Fisher",
+   "title": "Sr Intern – Data Analytics & AI/ML, Service ability",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Sr-Intern---Data-Analytics---AI-ML--Service-ability_R-01374061"
+  },
+  "Thermo Fisher::R-01374027": {
+   "company": "Thermo Fisher",
+   "title": "Intern – Instructional Design and Video Production",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Process-Engineering-Intern_R-01374027"
+  },
+  "Thermo Fisher::R-01374034": {
+   "company": "Thermo Fisher",
+   "title": "Sr. Systems Engineer Intern - Detection and Analytics",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Sr-Systems-Engineer-Intern---Detection-and-Analytics_R-01374034-1"
+  },
+  "Thermo Fisher::R-01373998": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Advanced Technology",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Advanced-technology-intern_R-01373998-1"
+  },
+  "Thermo Fisher::R-01374014": {
+   "company": "Thermo Fisher",
+   "title": "Intern - DevOps",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---DevOps_R-01374014-1"
+  },
+  "Thermo Fisher::R-01373976": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Quality Control Microbiology",
+   "location": "Covingham, Swindon, United Kingdom",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covingham-Swindon-United-Kingdom/Intern---Quality-Control-Microbiology_R-01373976"
+  },
+  "Thermo Fisher::R-01374095": {
+   "company": "Thermo Fisher",
+   "title": "Qc Intern Chemistry",
+   "location": "Covingham, Swindon, United Kingdom",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covingham-Swindon-United-Kingdom/Qc-Intern-Chemistry_R-01374095"
+  },
+  "Thermo Fisher::R-01373975": {
+   "company": "Thermo Fisher",
+   "title": "Manufacturing Engineering Internship",
+   "location": "Covingham, Swindon, United Kingdom",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covingham-Swindon-United-Kingdom/Manufacturing-Engineering-Internship_R-01373975"
+  },
+  "Thermo Fisher::R-01374020": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Mass Spectrometry Applications",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Product-Specialist_R-01374020"
+  },
+  "Thermo Fisher::R-01374130": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Autonomous Lab Concept Development for an Electron Microscope",
+   "location": "Eindhoven, Netherlands",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern---Autonomous-Lab-Concept-Development-for-an-Electron-Microscope_R-01374130"
+  },
+  "Thermo Fisher::R-01374099": {
+   "company": "Thermo Fisher",
+   "title": "Manufacturing Engineering Intern",
+   "location": "Paisley, United Kingdom",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Paisley-United-Kingdom/Manufacturing-Engineering-Intern_R-01374099-1"
+  },
+  "Thermo Fisher::R-01374041": {
+   "company": "Thermo Fisher",
+   "title": "Intern – Systems Design Engineering",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Systems-Design-Engineering_R-01374041"
+  },
+  "Thermo Fisher::R-01374039": {
+   "company": "Thermo Fisher",
+   "title": "Intern – Systems Design Engineering (Vibration)",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Systems-Design-Engineering--Vibration-_R-01374039"
+  },
+  "Thermo Fisher::R-01374018": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Instrument Scientist",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Instrument-Scientist_R-01374018"
+  },
+  "Thermo Fisher::R-01374054": {
+   "company": "Thermo Fisher",
+   "title": "Internship Position: Data Processing and Microscopy Analysis Intern",
+   "location": "Eindhoven, Netherlands",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship-Position--Data-Processing-and-Microscopy-Analysis-Intern_R-01374054"
+  },
+  "Thermo Fisher::R-01374000": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Advanced Technology",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Advanced-Technology_R-01374000"
+  },
+  "Thermo Fisher::R-01374008": {
+   "company": "Thermo Fisher",
+   "title": "Intern - Data Analyst",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1"
+  },
+  "Thermo Fisher::R-01374023": {
+   "company": "Thermo Fisher",
+   "title": "Intern – Product Compliance",
+   "location": "Brno, Czechia",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Product-Compliance_R-01374023-1"
+  },
+  "Thermo Fisher::R-01373970": {
+   "company": "Thermo Fisher",
+   "title": "Manufacturing Planner/Scheduler Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Manufacturing-Planner-Scheduler-Intern_R-01373970"
+  },
+  "Thermo Fisher::R-01373983": {
+   "company": "Thermo Fisher",
+   "title": "mRNA Project Manager Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/mRNA-Project-Manager-Intern_R-01373983-1"
+  },
+  "Thermo Fisher::R-01373952": {
+   "company": "Thermo Fisher",
+   "title": "Clinical Trial Coordinator Intern",
+   "location": "Sofia, Bulgaria",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sofia-Bulgaria/Clinical-Trial-Coordinator-Intern_R-01373952-1"
+  },
+  "Thermo Fisher::R-01374116": {
+   "company": "Thermo Fisher",
+   "title": "Intern Operations manufacturing",
+   "location": "Eindhoven, Netherlands",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern-Operations-manufacturing_R-01374116"
+  },
+  "Thermo Fisher::R-01373959": {
+   "company": "Thermo Fisher",
+   "title": "Quality Internship (12 month Industry Placement)",
+   "location": "Horsham, United Kingdom",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Horsham-United-Kingdom/Quality-Internship--12-month-Industry-Placement-_R-01373959"
+  },
+  "Thermo Fisher::R-01374107": {
+   "company": "Thermo Fisher",
+   "title": "Manufacturing Data Analyst - Internship",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Manufacturing-Data-Analyst---Internship_R-01374107"
+  },
+  "Thermo Fisher::R-01374108": {
+   "company": "Thermo Fisher",
+   "title": "Inventory & Stock Management Analyst - Internship",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Inventory---Stock-Management-Analyst---Internship_R-01374108"
+  },
+  "Thermo Fisher::R-01372662": {
+   "company": "Thermo Fisher",
+   "title": "Quality Control Intern",
+   "location": "Groningen, Netherlands",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Groningen-Netherlands/Quality-Control-Intern_R-01372662-1"
+  },
+  "Thermo Fisher::R-01373960": {
+   "company": "Thermo Fisher",
+   "title": "Sr. Intern Project Manager",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Sr-Intern-Project-Manager_R-01373960"
+  },
+  "Thermo Fisher::R-01373997": {
+   "company": "Thermo Fisher",
+   "title": "Sr. Supplier Quality Intern",
+   "location": "Monza, Italy",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Sr-Supplier-Quality-Intern_R-01373997"
+  },
+  "Thermo Fisher::R-01358473": {
+   "company": "Thermo Fisher",
+   "title": "EHS Intern",
+   "location": "Eindhoven, Netherlands",
+   "reason": "not US",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/EHS-Intern_R-01358473"
+  },
+  "Thermo Fisher::R-01372098": {
+   "company": "Thermo Fisher",
+   "title": "Engineering Co-Op",
+   "location": "Allentown, Pennsylvania, USA",
+   "reason": "no R&D keywords",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Engineering-Co-Op_R-01372098"
+  },
   "Lonza::R70855": {
    "company": "Lonza",
    "title": "Intern",
@@ -687,6 +1394,27 @@
    "reason": "not US",
    "url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Visp/Intern-QC-Lab-Associate--only-for-PIBS-students--80-100-_R75556"
   },
+  "Catalent::0094245": {
+   "company": "Catalent",
+   "title": "Process Engineer Intern",
+   "location": "Aprilia, Italy",
+   "reason": "not US",
+   "url": "https://catalent.wd1.myworkdayjobs.com/External/job/Aprilia-Italy/Process-Engineer-Intern_0094245"
+  },
+  "Catalent::0094663": {
+   "company": "Catalent",
+   "title": "Product Development Intern",
+   "location": "Aprilia, Italy",
+   "reason": "not US",
+   "url": "https://catalent.wd1.myworkdayjobs.com/External/job/Aprilia-Italy/Product-Development-Intern_0094663"
+  },
+  "Catalent::0094246": {
+   "company": "Catalent",
+   "title": "Process Engineer Automation Intern",
+   "location": "Aprilia, Italy",
+   "reason": "not US",
+   "url": "https://catalent.wd1.myworkdayjobs.com/External/job/Aprilia-Italy/Process-Engineer-Automation-Intern_0094246"
+  },
   "Ginkgo Bioworks::5249264007": {
    "company": "Ginkgo Bioworks",
    "title": "Automation Scientist Graduate Intern, RAC Operations",
@@ -714,6 +1442,489 @@
    "location": "Emeryville, California",
    "reason": "excluded word in title: software",
    "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033167007"
+  },
+  "Zoetis::JR00021714": {
+   "company": "Zoetis",
+   "title": "Environment Health and Safety Intern",
+   "location": "Kalamazoo - Downtown Portage Street",
+   "reason": "no R&D keywords",
+   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Environment-Health-and-Safety-Intern_JR00021714-1"
+  },
+  "Zoetis::JR00021860": {
+   "company": "Zoetis",
+   "title": "Managed Services Intern",
+   "location": "US NC Remote",
+   "reason": "no R&D keywords",
+   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-NC-Remote/Managed-Services-Intern_JR00021860-1"
+  },
+  "Zoetis::JR00021718": {
+   "company": "Zoetis",
+   "title": "Laboratory Animal Behavior Intern",
+   "location": "Lincoln",
+   "reason": "no R&D keywords",
+   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Laboratory-Animal-Behavior-Intern_JR00021718-2"
+  },
+  "Zoetis::JR00021824": {
+   "company": "Zoetis",
+   "title": "Organoid Culture and Assay Development Intern",
+   "location": "Kalamazoo - Downtown Portage Street",
+   "reason": "no R&D keywords",
+   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Organoid-Culture-and-Assay-Development-Intern_JR00021824-2"
+  },
+  "Zoetis::JR00021823": {
+   "company": "Zoetis",
+   "title": "Endoparasite Biologist Intern",
+   "location": "Kalamazoo - Downtown Portage Street",
+   "reason": "no R&D keywords",
+   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Endoparasite-Biologist-Intern_JR00021823-2"
+  },
+  "Zoetis::JR00021717": {
+   "company": "Zoetis",
+   "title": "Laboratory Animal Veterinarian and Behavior Intern",
+   "location": "Kalamazoo - Downtown Portage Street",
+   "reason": "no R&D keywords",
+   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Laboratory-Animal-Veterinarian-and-Behavior-Intern_JR00021717-1"
+  },
+  "Elanco::R0025846": {
+   "company": "Elanco",
+   "title": "Intern - Packaging Development (m/f/d)",
+   "location": "DE - Monheim",
+   "reason": "not US",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/DE---Monheim/Intern---Packaging-Development--m-f-d-_R0025846"
+  },
+  "Elanco::R0026868": {
+   "company": "Elanco",
+   "title": "Engineering Intern – Clinton, Indiana (Summer 2027)",
+   "location": "Clinton, IN",
+   "reason": "no R&D keywords",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Engineering-Intern---Clinton--Indiana--Summer-2027-_R0026868"
+  },
+  "Elanco::R0026898": {
+   "company": "Elanco",
+   "title": "Engineering Intern – Elwood, Kansas (Summer 2027)",
+   "location": "Elwood, KS",
+   "reason": "no R&D keywords",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Engineering-Intern---Elwood--Kansas--Summer-2027-_R0026898"
+  },
+  "Elanco::R0027089": {
+   "company": "Elanco",
+   "title": "O2C Credit & Collections Intern with German",
+   "location": "PL - Warszawa",
+   "reason": "not US",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/PL---Warszawa/O2C-Credit---Collections-Intern-with-German_R0027089-1"
+  },
+  "Elanco::R0027088": {
+   "company": "Elanco",
+   "title": "O2C Credit & Collections Intern with Dutch",
+   "location": "PL - Warszawa",
+   "reason": "not US",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/PL---Warszawa/O2C-Credit---Collections-Intern-with-Dutch_R0027088-1"
+  },
+  "Elanco::R0026899": {
+   "company": "Elanco",
+   "title": "Manufacturing Associate Intern – Elwood, Kansas (Summer 2027)",
+   "location": "Elwood, KS",
+   "reason": "no R&D keywords",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899"
+  },
+  "Elanco::R0026895": {
+   "company": "Elanco",
+   "title": "Quality Assurance Intern – Clinton, Indiana (Summer 2027)",
+   "location": "Clinton, IN",
+   "reason": "no R&D keywords",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Quality-Assurance-Intern---Clinton--Indiana--Summer-2027-_R0026895"
+  },
+  "Elanco::R0026902": {
+   "company": "Elanco",
+   "title": "Operational Excellence Intern – Elwood, Kansas (Summer 2027)",
+   "location": "Elwood, KS",
+   "reason": "no R&D keywords",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Operational-Excellence-Intern---Elwood--Kansas--Summer-2027-_R0026902"
+  },
+  "Elanco::R0026917": {
+   "company": "Elanco",
+   "title": "Quality Assurance Intern – Elwood, KS (Summer 2027)",
+   "location": "Elwood, KS",
+   "reason": "no R&D keywords",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Quality-Assurance-Intern---Elwood--KS--Summer-2027-_R0026917"
+  },
+  "Elanco::R0027172": {
+   "company": "Elanco",
+   "title": "Engineering Intern – Fort Dodge, Iowa (Summer 2027)",
+   "location": "Fort Dodge, IA",
+   "reason": "no R&D keywords",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Engineering-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027172"
+  },
+  "Elanco::R0027425": {
+   "company": "Elanco",
+   "title": "Beef Veterinarian Intern - US Farm Animal (Summer 2027)",
+   "location": "US Territory Field based",
+   "reason": "no R&D keywords",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/US-Territory-Field-based/Beef-Veterinarian-Intern---US-Farm-Animal--Summer-2027-_R0027425"
+  },
+  "Elanco::R0026900": {
+   "company": "Elanco",
+   "title": "Health, Safety, and Environment Intern – Elwood, Kansas (Summer 2027)",
+   "location": "Elwood, KS",
+   "reason": "no R&D keywords",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Health--Safety--and-Environment-Intern---Elwood--Kansas--Summer-2027-_R0026900"
+  },
+  "Elanco::R0026870": {
+   "company": "Elanco",
+   "title": "Manufacturing Scientist/Quality Control Chemist Intern – Clinton, Indiana (Summer 2027)",
+   "location": "Clinton, IN",
+   "reason": "no R&D keywords",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Clinton--Indiana--Summer-2027-_R0026870"
+  },
+  "Elanco::R0027070": {
+   "company": "Elanco",
+   "title": "Manufacturing Scientist/Quality Control Chemist Intern – Fort Dodge, Iowa (Summer 2027)",
+   "location": "Fort Dodge, IA",
+   "reason": "no R&D keywords",
+   "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027070"
+  },
+  "Kraft Heinz::R-53383": {
+   "company": "Kraft Heinz",
+   "title": "Operations Intern",
+   "location": "",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Operations-Intern_R-53383"
+  },
+  "Kraft Heinz::R-106857": {
+   "company": "Kraft Heinz",
+   "title": "Law Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Law-Intern_R-106857"
+  },
+  "Kraft Heinz::R-107421": {
+   "company": "Kraft Heinz",
+   "title": "Culinary intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Intern_R-107421-1"
+  },
+  "Kraft Heinz::R-107627": {
+   "company": "Kraft Heinz",
+   "title": "Logistics intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Logistics-intern_R-107627"
+  },
+  "Kraft Heinz::R-107657": {
+   "company": "Kraft Heinz",
+   "title": "Procurement Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Procurement-Intern_R-107657-1"
+  },
+  "Kraft Heinz::R-107714": {
+   "company": "Kraft Heinz",
+   "title": "Customs Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Customs-Intern_R-107714"
+  },
+  "Kraft Heinz::R-107782": {
+   "company": "Kraft Heinz",
+   "title": "Culinary Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Culinary-Intern_R-107782"
+  },
+  "Kraft Heinz::R-76460": {
+   "company": "Kraft Heinz",
+   "title": "Process Development Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Process-Development-Intern_R-76460-1"
+  },
+  "Kraft Heinz::R-99806": {
+   "company": "Kraft Heinz",
+   "title": "GCC Intern-2",
+   "location": "Ahmedabad - Venus Stratum GCC",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Ahmedabad---Venus-Stratum-GCC/GCC-Intern-2_R-99806"
+  },
+  "Kraft Heinz::R-102557": {
+   "company": "Kraft Heinz",
+   "title": "S&OP Intern",
+   "location": "Milano",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Milano/S-OP-Intern_R-102557"
+  },
+  "Kraft Heinz::R-104463": {
+   "company": "Kraft Heinz",
+   "title": "Demand Planning Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Demand-Planning-Intern_R-104463"
+  },
+  "Kraft Heinz::R-104811": {
+   "company": "Kraft Heinz",
+   "title": "Supply Planning Intern",
+   "location": "Balıkesir-Susurluk",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Balkesir-Susurluk/Supply-Planning-Intern_R-104811"
+  },
+  "Kraft Heinz::R-105695": {
+   "company": "Kraft Heinz",
+   "title": "Benefits Intern EPDM",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Benefits-Intern-EPDM_R-105695"
+  },
+  "Kraft Heinz::R-107282": {
+   "company": "Kraft Heinz",
+   "title": "Logistics & Inventory Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Logistics---Inventory-Intern_R-107282"
+  },
+  "Kraft Heinz::R-107316": {
+   "company": "Kraft Heinz",
+   "title": "Demand Planning Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Demand-Planning-Intern_R-107316"
+  },
+  "Kraft Heinz::R-107460": {
+   "company": "Kraft Heinz",
+   "title": "FP&A Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/FP-A-Intern_R-107460"
+  },
+  "Kraft Heinz::R-107700": {
+   "company": "Kraft Heinz",
+   "title": "FSQ Compliance Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/FSQ-Compliance-Intern_R-107700"
+  },
+  "Kraft Heinz::R-107758": {
+   "company": "Kraft Heinz",
+   "title": "Natural Preservation Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Natural-Preservation-Intern_R-107758"
+  },
+  "Kraft Heinz::R-107780": {
+   "company": "Kraft Heinz",
+   "title": "Process Modelling intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Process-Development-and-Design-Intern_R-107780"
+  },
+  "Kraft Heinz::R-108009": {
+   "company": "Kraft Heinz",
+   "title": "Process Development Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Process-Development-Intern_R-108009"
+  },
+  "Kraft Heinz::R-108038": {
+   "company": "Kraft Heinz",
+   "title": "Data Analyst Intern",
+   "location": "Nijmegen; Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Data-Analyst-Intern_R-108038"
+  },
+  "Kraft Heinz::R-108301": {
+   "company": "Kraft Heinz",
+   "title": "Customer Excellence Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Customer-Excellence-Intern_R-108301"
+  },
+  "Kraft Heinz::R-108386": {
+   "company": "Kraft Heinz",
+   "title": "Packaging development intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Packaging-development-intern_R-108386"
+  },
+  "Kraft Heinz::R-108402": {
+   "company": "Kraft Heinz",
+   "title": "Global nutrition intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Global-nutrition-intern_R-108402"
+  },
+  "Kraft Heinz::R-108404": {
+   "company": "Kraft Heinz",
+   "title": "Product design intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Product-design-intern_R-108404"
+  },
+  "Kraft Heinz::R-76457": {
+   "company": "Kraft Heinz",
+   "title": "Labs/Shelf Life Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Labs-Shelf-Life-Intern_R-76457-1"
+  },
+  "Kraft Heinz::R-97506": {
+   "company": "Kraft Heinz",
+   "title": "Supply Chain & Logistics Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Supply-Chain---Logistics-Intern_R-97506"
+  },
+  "Kraft Heinz::R-98100": {
+   "company": "Kraft Heinz",
+   "title": "Supply chain & Logistics Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Sales---Operations-Intern_R-98100"
+  },
+  "Kraft Heinz::R-98446": {
+   "company": "Kraft Heinz",
+   "title": "Business Development Intern (BE)",
+   "location": "Antwerpen - Berchem",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Antwerpen---Berchem/Intern-Retail-Field-Sales--BE-_R-98446-2"
+  },
+  "Kraft Heinz::R-98477": {
+   "company": "Kraft Heinz",
+   "title": "Trade Category Elevation Intern",
+   "location": "Antwerpen - Berchem",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Antwerpen---Berchem/Trade-Category-Elevation-Intern_R-98477"
+  },
+  "Kraft Heinz::R-101491": {
+   "company": "Kraft Heinz",
+   "title": "Supply Chain & Logistics Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Supply-Chain---Logistics-Intern_R-101491"
+  },
+  "Kraft Heinz::R-102277": {
+   "company": "Kraft Heinz",
+   "title": "R&D Technologist Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/R-D-Technologist-Intern_R-102277-2"
+  },
+  "Kraft Heinz::R-104062": {
+   "company": "Kraft Heinz",
+   "title": "FSQ External Manufacturing Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/FSQ-External-Manufacturing-Intern_R-104062"
+  },
+  "Kraft Heinz::R-105052": {
+   "company": "Kraft Heinz",
+   "title": "Research and Development Intern",
+   "location": "Balıkesir-Susurluk",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Balkesir-Susurluk/Research-and-Development-Intern_R-105052"
+  },
+  "Kraft Heinz::R-106537": {
+   "company": "Kraft Heinz",
+   "title": "Global Manufacturing - EHS Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Global-Manufacturing---EHS-Intern_R-106537"
+  },
+  "Kraft Heinz::R-106912": {
+   "company": "Kraft Heinz",
+   "title": "Category Taste Elevation Intern",
+   "location": "Antwerpen - Berchem",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Antwerpen---Berchem/Category-Taste-Elevation-Intern_R-106912"
+  },
+  "Kraft Heinz::R-107654": {
+   "company": "Kraft Heinz",
+   "title": "Supply Chain & Logistics Intern",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Supply-Chain---Logistics-Intern_R-107654"
+  },
+  "Kraft Heinz::R-107704": {
+   "company": "Kraft Heinz",
+   "title": "FSQ External Manufacturing Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/FSQ-External-Manufacturing-Intern_R-107704"
+  },
+  "Kraft Heinz::R-107781": {
+   "company": "Kraft Heinz",
+   "title": "Shelf life labs intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Shelf-life-labs-intern_R-107781"
+  },
+  "Kraft Heinz::R-107975": {
+   "company": "Kraft Heinz",
+   "title": "Value Creation Packaging Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Value-Creation-Packaging-Intern_R-107975"
+  },
+  "Kraft Heinz::R-108007": {
+   "company": "Kraft Heinz",
+   "title": "Consumer Experience Sensory Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Consumer-Experience-Sensory-Intern_R-108007"
+  },
+  "Kraft Heinz::R-108403": {
+   "company": "Kraft Heinz",
+   "title": "Consumer & Sensory Scientist Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Consumer---Sensory-Scientist-Intern_R-108403"
+  },
+  "Kraft Heinz::R-76456": {
+   "company": "Kraft Heinz",
+   "title": "Product Development - Salt & Sugar Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Product-Development---Salt---Sugar-Intern_R-76456"
+  },
+  "Kraft Heinz::R-76316": {
+   "company": "Kraft Heinz",
+   "title": "Quality Internship (stage)",
+   "location": "",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Quality-Internship--stage-_R-76316-1"
+  },
+  "Kraft Heinz::R-81316": {
+   "company": "Kraft Heinz",
+   "title": "Law Internship (Stage)",
+   "location": "Amsterdam",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Law-Internship--Stage-_R-81316-1"
+  },
+  "Kraft Heinz::R-102107": {
+   "company": "Kraft Heinz",
+   "title": "Packaging Development & Technology  Intern",
+   "location": "Nijmegen",
+   "reason": "not US",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Packaging-Development---Technology--Intern_R-102107-1"
+  },
+  "General Mills::10131689": {
+   "company": "General Mills",
+   "title": "Category Intern",
+   "location": "Madrid, ES",
+   "reason": "not US",
+   "url": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Madrid-ES/Category-Intern_10131689"
+  },
+  "General Mills::10128716": {
+   "company": "General Mills",
+   "title": "Internship - Digital & Technology Associate",
+   "location": "Minneapolis, MN",
+   "reason": "no R&D keywords",
+   "url": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Digital---Technology-Associate_10128716"
+  },
+  "General Mills::10128708": {
+   "company": "General Mills",
+   "title": "Internship - Supply Chain Logistics Associate",
+   "location": "Cincinnati, OH; Avon Mill; Geneva, IL; Joplin, MO; Buffalo, NY; Milwaukee, WI; Wellston, OH; Chanhassen, MN; Belvidere, IL; Covington, GA; Albuquerque, NM; Richmond, IN; Murfreesboro, TN",
+   "reason": "no R&D keywords",
+   "url": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Cincinnati-OH/Internship---Supply-Chain-Logistics-Associate_10128708"
   },
   "Mars::R170927": {
    "company": "Mars",
@@ -960,6 +2171,1007 @@
    "reason": "not US",
    "url": "https://mdlz.wd3.myworkdayjobs.com/External/job/Warsaw-Poland/Taste-The-Future---Procurement-Strategy-and-Data-Internship--m-f-x-_R-182025-1"
   },
+  "Campbell's::Req-69235": {
+   "company": "Campbell's",
+   "title": "Package Co-Op - Snacks",
+   "location": "USA - NJ - Camden",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Package-Co-Op---Snacks_Req-69235"
+  },
+  "Campbell's::Req-68753": {
+   "company": "Campbell's",
+   "title": "Packaging Engineer Co-Op",
+   "location": "USA - NJ - Camden",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Packaging-Engineer-Co-Op_Req-68753"
+  },
+  "Campbell's::Req-66015": {
+   "company": "Campbell's",
+   "title": "Agentic AI Engineer Co-Op",
+   "location": "USA - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015"
+  },
+  "Campbell's::Req-66014": {
+   "company": "Campbell's",
+   "title": "Agentic AI Engineer Co-Op",
+   "location": "USA - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014"
+  },
+  "Campbell's::Req-65915": {
+   "company": "Campbell's",
+   "title": "Business Analyst (Co-op), DA&AI",
+   "location": "USA - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915"
+  },
+  "Campbell's::Req-65838": {
+   "company": "Campbell's",
+   "title": "Data Engineer, DA&AI Co-Op",
+   "location": "USA - NJ - Camden",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838"
+  },
+  "Campbell's::Req-65842": {
+   "company": "Campbell's",
+   "title": "Data Engineer - Operational Support (Co-op)",
+   "location": "USA - NJ - Camden",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer---Operational-Support--Co-op-_Req-65842"
+  },
+  "Campbell's::Req-65843": {
+   "company": "Campbell's",
+   "title": "Data Engineer – Agentic AI & ML Ops (Co-op)",
+   "location": "USA - NJ - Camden",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843"
+  },
+  "Campbell's::Req-65845": {
+   "company": "Campbell's",
+   "title": "Data Science Intern",
+   "location": "USA - NJ - Camden",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65845"
+  },
+  "Campbell's::Req-65844": {
+   "company": "Campbell's",
+   "title": "Data Science Intern",
+   "location": "USA - NJ - Camden",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65844"
+  },
+  "Campbell's::Req-65839": {
+   "company": "Campbell's",
+   "title": "Data Engineer, DA&AI Co-Op",
+   "location": "USA - NJ - Camden",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65839"
+  },
+  "Campbell's::Req-65913": {
+   "company": "Campbell's",
+   "title": "Business Analyst (Co-op), DA&AI",
+   "location": "USA - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913"
+  },
+  "Campbell's::Req-65837": {
+   "company": "Campbell's",
+   "title": "Data Engineer, DA&AI Co-Op",
+   "location": "USA - NJ - Camden",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837"
+  },
+  "Campbell's::Req-65914": {
+   "company": "Campbell's",
+   "title": "Business Analyst (Co-op), DA&AI",
+   "location": "USA - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914"
+  },
+  "Ingredion::Req-40342": {
+   "company": "Ingredion",
+   "title": "Operations Intern",
+   "location": "Indianapolis, IN",
+   "reason": "no R&D keywords",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Indianapolis-IN/Operations-Intern_Req-40342-1"
+  },
+  "Ingredion::Req-40677": {
+   "company": "Ingredion",
+   "title": "Intern -  Maintenance",
+   "location": "Enstek",
+   "reason": "not US",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Enstek/Intern----Maintenance_Req-40677"
+  },
+  "Ingredion::Req-40171": {
+   "company": "Ingredion",
+   "title": "Logistics & Distribution Intern",
+   "location": "Westchester, IL",
+   "reason": "no R&D keywords",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Logistics---Distribution-Intern_Req-40171-1"
+  },
+  "Ingredion::Req-40355": {
+   "company": "Ingredion",
+   "title": "Reliability Engineering Intern",
+   "location": "Winston-Salem, NC",
+   "reason": "different term",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Winston-Salem-NC/Reliability-Engineering-Intern_Req-40355-1"
+  },
+  "Ingredion::Req-40362": {
+   "company": "Ingredion",
+   "title": "Process Engineer Intern",
+   "location": "Salem, OR",
+   "reason": "no R&D keywords",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Salem-OR/Process-Engineer-Intern_Req-40362-1"
+  },
+  "Ingredion::Req-38677": {
+   "company": "Ingredion",
+   "title": "Wet Mill Intern Engineer",
+   "location": "San Juan del Río, MX",
+   "reason": "not US",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/San-Juan-del-Ro-MX/Wet-Mill-Intern-Engineer_Req-38677"
+  },
+  "Ingredion::Req-40135": {
+   "company": "Ingredion",
+   "title": "Procurement Tools & Systems Intern",
+   "location": "Westchester, IL",
+   "reason": "no R&D keywords",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Procurement-Tools---Systems-Intern_Req-40135-1"
+  },
+  "Ingredion::Req-40204": {
+   "company": "Ingredion",
+   "title": "Functional Fiber Research Intern",
+   "location": "Bridgewater, NJ",
+   "reason": "different term",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Functional-Fiber-Research-Intern_Req-40204-1"
+  },
+  "Ingredion::Req-40257": {
+   "company": "Ingredion",
+   "title": "Global Talent Management Intern",
+   "location": "Westchester, IL",
+   "reason": "different term",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Talent-Management-Intern_Req-40257-1"
+  },
+  "Ingredion::Req-40596": {
+   "company": "Ingredion",
+   "title": "Intern, Puchasing US/CAN",
+   "location": "Guadalajara, JAL",
+   "reason": "not US",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Guadalajara-JAL/Intern--Puchasing-US-CAN_Req-40596"
+  },
+  "Ingredion::Req-40734": {
+   "company": "Ingredion",
+   "title": "Corporate Development & Strategy Intern",
+   "location": "Singapore",
+   "reason": "not US",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Singapore/Corporate-Development---Strategy-Intern_Req-40734"
+  },
+  "Ingredion::Req-20946": {
+   "company": "Ingredion",
+   "title": "SCH Data Analytics Intern",
+   "location": "Guadalajara, JAL",
+   "reason": "not US",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Guadalajara-JAL/SCH-Data-Analytics-Intern_Req-20946"
+  },
+  "Ingredion::Req-39972": {
+   "company": "Ingredion",
+   "title": "Commodities Pricing & Risk Management Intern",
+   "location": "Westchester, IL",
+   "reason": "different term",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Commodities-Pricing---Risk-Management-Intern_Req-39972-1"
+  },
+  "Ingredion::Req-40226": {
+   "company": "Ingredion",
+   "title": "Global Supply Chain Data Science Intern",
+   "location": "Westchester, IL",
+   "reason": "no R&D keywords",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1"
+  },
+  "Ingredion::Req-40019": {
+   "company": "Ingredion",
+   "title": "Reliability Engineering Co-op (May-Dec) - Indianapolis, IN",
+   "location": "Indianapolis, IN",
+   "reason": "no R&D keywords",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Indianapolis-IN/Reliability-Engineering-Co-op----Indianapolis--IN_Req-40019-1"
+  },
+  "IFF::R22718": {
+   "company": "IFF",
+   "title": "Intern",
+   "location": "Mount Maunganui, New Zealand",
+   "reason": "not US",
+   "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Mount-Maunganui-New-Zealand/Intern_R22718"
+  },
+  "IFF::R23206": {
+   "company": "IFF",
+   "title": "intern, beverage",
+   "location": "South Brunswick, NJ, USA",
+   "reason": "different term",
+   "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/South-Brunswick-NJ-USA/intern--beverage_R23206"
+  },
+  "IFF::R21713": {
+   "company": "IFF",
+   "title": "Intern Trends & Foresights",
+   "location": "Hilversum (Liebergerweg), Netherlands",
+   "reason": "not US",
+   "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Hilversum-Liebergerweg-Netherlands/Intern-Trends---Foresights_R21713"
+  },
+  "IFF::R22829": {
+   "company": "IFF",
+   "title": "Lab Research &Development Intern",
+   "location": "Zhaoqing City, China",
+   "reason": "not US",
+   "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Zhaoqing-City-China/Lab-Research--Development-Intern_R22829"
+  },
+  "IFF::R22178": {
+   "company": "IFF",
+   "title": "Fine Fragrance SDM Assistant Intern",
+   "location": "Tlalnepantla, Mexico; TecnoParque GBS, Mexico",
+   "reason": "not US",
+   "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Tlalnepantla-Mexico/Fine-Fragrance-SDM-Assistant-Intern_R22178"
+  },
+  "IFF::R23121": {
+   "company": "IFF",
+   "title": "Data Engineering & Data Science Intern",
+   "location": "Benicarlo, Spain",
+   "reason": "not US",
+   "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Benicarlo-Spain/Intern_R23121"
+  },
+  "IFF::R23214": {
+   "company": "IFF",
+   "title": "Food Biosciences, Portfolio & Project Management Intern",
+   "location": "Milan, Italy",
+   "reason": "not US",
+   "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Milan-Italy/Project-Management-and-Portfolio-Intern_R23214"
+  },
+  "IFF::R22951": {
+   "company": "IFF",
+   "title": "Global Risk & Insurance Intern, Treasury (Beca FUO)",
+   "location": "Asturias, Spain",
+   "reason": "not US",
+   "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Asturias-Spain/Global-Risk---Insurance-Intern--Treasury--Beca-FUO-_R22951"
+  },
+  "IFF::R22999": {
+   "company": "IFF",
+   "title": "Técnico de Laboratorio (Estudiante en prácticas/Intern)",
+   "location": "Benicarlo, Spain",
+   "reason": "not US",
+   "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Benicarlo-Spain/Tcnico-de-Laboratorio--Estudiante-en-prcticas-Intern-_R22999"
+  },
+  "IFF::R17721": {
+   "company": "IFF",
+   "title": "Manufacturing Tech Co-Op",
+   "location": "Memphis, TN, USA",
+   "reason": "no R&D keywords",
+   "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Memphis-TN-USA/Manufacturing-Tech-Co-Op_R17721"
+  },
+  "J.M. Smucker::115804": {
+   "company": "J.M. Smucker",
+   "title": "Category Leadership Intern, Summer 2027",
+   "location": "Orrville, OH",
+   "reason": "no R&D keywords",
+   "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Category-Leadership-Intern--Summer-2027_115804"
+  },
+  "J.M. Smucker::115919": {
+   "company": "J.M. Smucker",
+   "title": "Corporate Communications Intern, Summer 2027",
+   "location": "Orrville, OH",
+   "reason": "no R&D keywords",
+   "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Corporate-Communications-Intern--Summer-2027_115919"
+  },
+  "J.M. Smucker::116006": {
+   "company": "J.M. Smucker",
+   "title": "Net Revenue Optimization Intern, Summer 2027",
+   "location": "Orrville, OH",
+   "reason": "no R&D keywords",
+   "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006"
+  },
+  "J.M. Smucker::116012": {
+   "company": "J.M. Smucker",
+   "title": "Revenue Growth Management Intern, Summer 2027",
+   "location": "Orrville, OH",
+   "reason": "no R&D keywords",
+   "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Revenue-Growth-Management-Intern--Summer-2027_116012"
+  },
+  "J.M. Smucker::115736": {
+   "company": "J.M. Smucker",
+   "title": "Spring/Summer 2027 Supply Chain Intern - Oxnard, CA",
+   "location": "Oxnard, CA",
+   "reason": "no R&D keywords",
+   "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Oxnard-CA/Spring-Summer-2027-Supply-Chain-Intern---Oxnard--CA_115736-1"
+  },
+  "Coca-Cola::R-148686": {
+   "company": "Coca-Cola",
+   "title": "Occupational Safety Intern",
+   "location": "Brazil - Manus",
+   "reason": "not US",
+   "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Brazil---Manus/Occupational-Safety-Intern_R-148686-1"
+  },
+  "Land O'Lakes::R-40461": {
+   "company": "Land O'Lakes",
+   "title": "Communications Intern",
+   "location": "Arden Hills, MN (USA)",
+   "reason": "no R&D keywords",
+   "url": "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Communications-Intern_R-40461"
+  },
+  "Land O'Lakes::R-40412": {
+   "company": "Land O'Lakes",
+   "title": "Dairy Member Services Intern",
+   "location": "Arden Hills, MN (USA)",
+   "reason": "no R&D keywords",
+   "url": "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Dairy-Member-Services-Intern_R-40412"
+  },
+  "Land O'Lakes::R-40235": {
+   "company": "Land O'Lakes",
+   "title": "WinField United Market Development Agronomist Intern, Summer 2027",
+   "location": "Virtual (USA); Iowa (USA); Tennessee (USA); Illinois (USA)",
+   "reason": "no R&D keywords",
+   "url": "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/WinField-United-Market-Development-Agronomist-Intern--Summer-2027_R-40235"
+  },
+  "Land O'Lakes::R-40826": {
+   "company": "Land O'Lakes",
+   "title": "Law Clerk Internship, Summer 2027",
+   "location": "Arden Hills, MN (USA)",
+   "reason": "no R&D keywords",
+   "url": "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Law-Clerk-Internship--Summer-2027_R-40826"
+  },
+  "Abbott::31165640": {
+   "company": "Abbott",
+   "title": "Business Intelligence Intern",
+   "location": "Mexico - Cuidad de Mexico - Cuidad de Mexico",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Mexico---Cuidad-de-Mexico---Cuidad-de-Mexico/Business-Intelligence-Intern_31165640"
+  },
+  "Abbott::31165308": {
+   "company": "Abbott",
+   "title": "E-commerce Intern",
+   "location": "Malaysia > Selangor : Imazium, No. 8, Jalan SS 21/37",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Malaysia--Selangor--Imazium-No-8-Jalan-SS-2137/E-commerce-Intern_31165308"
+  },
+  "Abbott::31162236": {
+   "company": "Abbott",
+   "title": "2027 Operations Cancer Diagnostics Intern",
+   "location": "United States > Madison : 1 Exact Lane",
+   "reason": "no R&D keywords",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Operations-Cancer-Diagnostics-Intern_31162236"
+  },
+  "Abbott::31159714": {
+   "company": "Abbott",
+   "title": "INTERNS 2027-I",
+   "location": "Colombia - Bogota",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Bogota/INTERNS-2027-I_31159714"
+  },
+  "Abbott::31160750": {
+   "company": "Abbott",
+   "title": "CRM Clinical Field Intern - Summer 2027",
+   "location": "United States - Illinois - Abbott Park",
+   "reason": "no R&D keywords",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/CRM-Clinical-Field-Intern---Summer-2027_31160750"
+  },
+  "Abbott::31164975": {
+   "company": "Abbott",
+   "title": "Digital Process Improvement & Automation (QA) Intern",
+   "location": "Netherlands - Weesp",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Weesp/Internship--QA-Supplier-to-Customer-at-Abbott-Olst_31164975"
+  },
+  "Abbott::31165568": {
+   "company": "Abbott",
+   "title": "INTERNS 2027- Feria I",
+   "location": "Peru - Lima",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Peru---Lima/INTERNS-2027--Feria-1_31165568"
+  },
+  "Abbott::31165574": {
+   "company": "Abbott",
+   "title": "INTERNS 2027- Feria II",
+   "location": "Peru - Lima",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Peru---Lima/INTERNS-2027--Feria-II_31165574"
+  },
+  "Abbott::31157132": {
+   "company": "Abbott",
+   "title": "Internship",
+   "location": "Portugal - Remote",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Portugal---Remote/Internship_31157132"
+  },
+  "Abbott::31164972": {
+   "company": "Abbott",
+   "title": "Internship",
+   "location": "Portugal - Remote",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Portugal---Remote/Internship_31164972"
+  },
+  "Abbott::31155780": {
+   "company": "Abbott",
+   "title": "Internship - Engineering",
+   "location": "Ireland - Clonmel; Ireland - Donegal Town; Ireland - Longford",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Clonmel/Internship---Engineering_31155780"
+  },
+  "Abbott::31155788": {
+   "company": "Abbott",
+   "title": "Internship Statistician",
+   "location": "Ireland - Donegal Town",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Donegal-Town/Internship-Statistician_31155788"
+  },
+  "Abbott::31164514": {
+   "company": "Abbott",
+   "title": "Internship Operator Customs & Trade Compliance",
+   "location": "Netherlands - Zwolle",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Internship-Operator-Customs---Trade-Compliance_31164514"
+  },
+  "Abbott::31165897": {
+   "company": "Abbott",
+   "title": "Internship Junior Specialist Record To Report",
+   "location": "Netherlands - Zwolle",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Internship-Junior-Specialist-Record-To-Report_31165897"
+  },
+  "Abbott::31160729": {
+   "company": "Abbott",
+   "title": "Nutrition Brand Management Intern - Infant and Adult - Summer 2027",
+   "location": "United States - Ohio - Columbus",
+   "reason": "no R&D keywords",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Nutrition-Brand-Management-Intern---Infant-and-Adult---Summer-2027_31160729"
+  },
+  "Abbott::31164501": {
+   "company": "Abbott",
+   "title": "Qualification and Validation Internship: Simplifying Packaging Materials",
+   "location": "Netherlands - Zwolle",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Qualification-and-Validation-Internship--Simplifying-Packaging-Materials_31164501"
+  },
+  "Abbott::31164513": {
+   "company": "Abbott",
+   "title": "Internship Operator Customs & Trade Compliance at Abbott Zwolle",
+   "location": "Netherlands - Zwolle",
+   "reason": "not US",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Internship-Operator-Customs---Trade-Compliance-at-Abbott-Zwolle_31164513"
+  },
+  "Procter & Gamble::R000144704": {
+   "company": "Procter & Gamble",
+   "title": "Production Intern",
+   "location": "Novomoskovsk",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Novomoskovsk/Production-Intern_R000144704"
+  },
+  "Procter & Gamble::R000147816": {
+   "company": "Procter & Gamble",
+   "title": "Technical Projects Intern",
+   "location": "Novomoskovsk",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Novomoskovsk/Technical-Projects-Intern_R000147816"
+  },
+  "Procter & Gamble::R000150609": {
+   "company": "Procter & Gamble",
+   "title": "Utilities Department Intern",
+   "location": "Novomoskovsk",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Novomoskovsk/Utilities-Department-Intern_R000150609"
+  },
+  "Procter & Gamble::R000155891": {
+   "company": "Procter & Gamble",
+   "title": "Data Engineering Intern",
+   "location": "PARIS GO-ASNIERES-SUR-SEINE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Data-Engineering-Intern_R000155891"
+  },
+  "Procter & Gamble::R000158599": {
+   "company": "Procter & Gamble",
+   "title": "Process Engineer Intern - Product Supply Management Intern (6 months)",
+   "location": "SINGAPORE PIONEER PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-PIONEER-PLANT/Process-Engineer-Intern---Product-Supply-Management-Intern--6-months-_R000158599"
+  },
+  "Procter & Gamble::R000156351": {
+   "company": "Procter & Gamble",
+   "title": "Brand Management Intern - Interlomas",
+   "location": "MEXICO CITY GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/Brand---Media-Intern---Interlomas_R000156351"
+  },
+  "Procter & Gamble::R000160218": {
+   "company": "Procter & Gamble",
+   "title": "Supply Chain & Manufacturing Intern",
+   "location": "Brussels",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Supply-Chain---Manufacturing-Intern_R000160218"
+  },
+  "Procter & Gamble::R000162249": {
+   "company": "Procter & Gamble",
+   "title": "Communications & Government Relations Intern",
+   "location": "BOGOTA GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/BOGOTA-GENERAL-OFFICE/Communications---Government-Relations-Intern_R000162249"
+  },
+  "Procter & Gamble::R000145735": {
+   "company": "Procter & Gamble",
+   "title": "Tech Intern - Estudiante en práctica",
+   "location": "Santiago",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Santiago/Tech-Intern---Estudiante-en-prctica_R000145735"
+  },
+  "Procter & Gamble::R000157055": {
+   "company": "Procter & Gamble",
+   "title": "Digital Engineer Intern - Tepeji Plant",
+   "location": "TEPEJI PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TEPEJI-PLANT/IT-Intern---Tepeji-Plant_R000157055"
+  },
+  "Procter & Gamble::R000158303": {
+   "company": "Procter & Gamble",
+   "title": "Product Supply Intern - Santiago Plant",
+   "location": "SANTIAGO PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/SANTIAGO-PLANT/Product-Supply-Intern---Santiago-Plant_R000158303"
+  },
+  "Procter & Gamble::R000162084": {
+   "company": "Procter & Gamble",
+   "title": "Dream Internship - Product Supply Intern",
+   "location": "BANGKOK PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/BANGKOK-PLANT/Dream-Internship---Product-Supply-Intern_R000162084"
+  },
+  "Procter & Gamble::R000162095": {
+   "company": "Procter & Gamble",
+   "title": "Intern, Talent Analytics & Assessment Science",
+   "location": "CINCINNATI GENERAL OFFICES",
+   "reason": "PhD-only",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Intern--Talent-Analytics---Assessment-Science_R000162095"
+  },
+  "Procter & Gamble::R000158598": {
+   "company": "Procter & Gamble",
+   "title": "Product Supply Management Intern (6 months)",
+   "location": "SINGAPORE PIONEER PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-PIONEER-PLANT/Product-Supply-Management-Intern--6-months-_R000158598"
+  },
+  "Procter & Gamble::R000160367": {
+   "company": "Procter & Gamble",
+   "title": "P&G LEAD GEN - Brand Intern",
+   "location": "HO CHI MINH CITY OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/HO-CHI-MINH-CITY-OFFICE/P-G-LEAD-GEN---Brand-Intern_R000160367"
+  },
+  "Procter & Gamble::R000162072": {
+   "company": "Procter & Gamble",
+   "title": "Dream Internship - Customer Business Development Intern",
+   "location": "BANGKOK GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/BANGKOK-GENERAL-OFFICE/Dream-Internship---Customer-Business-Development-Intern_R000162072"
+  },
+  "Procter & Gamble::R000143163": {
+   "company": "Procter & Gamble",
+   "title": "Product Supply Engineer Intern (m/f/x)",
+   "location": "Mequinenza",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Mequinenza/Product-Supply-Engineer-Intern--m-f-x-_R000143163"
+  },
+  "Procter & Gamble::R000149638": {
+   "company": "Procter & Gamble",
+   "title": "R&D Scientist Intern (Bachelor's/Master's students)",
+   "location": "Singapore",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Singapore/R-D-Scientist-Intern--Bachelor-s-Master-s-students-_R000149638"
+  },
+  "Procter & Gamble::R000160369": {
+   "company": "Procter & Gamble",
+   "title": "P&G LEAD GEN - Data & Automation Intern",
+   "location": "HO CHI MINH CITY OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/HO-CHI-MINH-CITY-OFFICE/P-G-LEAD-GEN---Data---Automation-Intern_R000160369"
+  },
+  "Procter & Gamble::R000162074": {
+   "company": "Procter & Gamble",
+   "title": "Dream Internship – Consumer Analytics, Insights & Research Intern",
+   "location": "Bangkok",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Bangkok/Dream-Internship---Consumer-Analytics--Insights---Research-Intern_R000162074"
+  },
+  "Procter & Gamble::R000161898": {
+   "company": "Procter & Gamble",
+   "title": "Innovation & Materials Engineer Intern (m/f/x)",
+   "location": "MEQUINENZA PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MEQUINENZA-PLANT/Innovation---Materials-Engineer-Intern--m-f-x-_R000161898"
+  },
+  "Procter & Gamble::R000157905": {
+   "company": "Procter & Gamble",
+   "title": "Purchases Internship",
+   "location": "CINCINNATI GENERAL OFFICES; MASON BUS AND INNOVATION CTR; IVORYDALE INNOVATION CENTER; BECKETT RIDGE INNOVATION CTR",
+   "reason": "different term",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Purchases-Internship_R000157905"
+  },
+  "Procter & Gamble::R000159360": {
+   "company": "Procter & Gamble",
+   "title": "R&D Internship – Scientist",
+   "location": "Brussels",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/R-D-Internship---Scientist_R000159360"
+  },
+  "Procter & Gamble::R000162371": {
+   "company": "Procter & Gamble",
+   "title": "CA Internship",
+   "location": "MUMBAI GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/CA-Internship_R000162371"
+  },
+  "Procter & Gamble::R000145988": {
+   "company": "Procter & Gamble",
+   "title": "Brand Management Internship (m/f/d)",
+   "location": "Schwalbach Am Taunus",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Brand-Management-Internship--m-f-d-_R000145988"
+  },
+  "Procter & Gamble::R000145698": {
+   "company": "Procter & Gamble",
+   "title": "Data Science Internship",
+   "location": "Brussels",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Data-Science-Internship_R000145698"
+  },
+  "Procter & Gamble::R000146320": {
+   "company": "Procter & Gamble",
+   "title": "Brand Management Internship",
+   "location": "Brussels",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Brand-Management-Internship_R000146320"
+  },
+  "Procter & Gamble::R000148759": {
+   "company": "Procter & Gamble",
+   "title": "Brand Management Internship",
+   "location": "ROTTERDAM OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/ROTTERDAM-OFFICE/Brand-Management-Internship_R000148759"
+  },
+  "Procter & Gamble::R000150319": {
+   "company": "Procter & Gamble",
+   "title": "Analytics & Insights Internship (m/f/d)",
+   "location": "Schwalbach Am Taunus",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Analytics---Insights-Internship--m-f-d-_R000150319"
+  },
+  "Procter & Gamble::R000154644": {
+   "company": "Procter & Gamble",
+   "title": "Data Engineer Internship (m/f/x)",
+   "location": "MADRID GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MADRID-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000154644"
+  },
+  "Procter & Gamble::R000154993": {
+   "company": "Procter & Gamble",
+   "title": "Supply Chain Internship",
+   "location": "Rotterdam",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Rotterdam/Supply-Chain-Internship_R000154993"
+  },
+  "Procter & Gamble::R000155031": {
+   "company": "Procter & Gamble",
+   "title": "Supply Chain Internship",
+   "location": "Brussels",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Supply-Chain-Internship_R000155031"
+  },
+  "Procter & Gamble::R000155816": {
+   "company": "Procter & Gamble",
+   "title": "Data Engineer Internship (m/f/x)",
+   "location": "MEQUINENZA PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MEQUINENZA-PLANT/Data-Engineer-Internship--m-f-x-_R000155816"
+  },
+  "Procter & Gamble::R000157694": {
+   "company": "Procter & Gamble",
+   "title": "Communications Manager Internship",
+   "location": "CINCINNATI GENERAL OFFICES",
+   "reason": "no R&D keywords",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Communications-Manager-Internship_R000157694"
+  },
+  "Procter & Gamble::R000157659": {
+   "company": "Procter & Gamble",
+   "title": "Media Manager Internship",
+   "location": "CINCINNATI GENERAL OFFICES",
+   "reason": "no R&D keywords",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Media-Manager-Internship_R000157659"
+  },
+  "Procter & Gamble::R000157051": {
+   "company": "Procter & Gamble",
+   "title": "Supply Chain Internship",
+   "location": "CINCINNATI GENERAL OFFICES; NEMC NORTH EAST MIX CENTER; Morris IL; Jackson; Moreno Valley; MINNEAPOLIS SALES OFFICE",
+   "reason": "no R&D keywords",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Supply-Chain-Internship_R000157051"
+  },
+  "Procter & Gamble::R000161204": {
+   "company": "Procter & Gamble",
+   "title": "Data Engineer Internship (m/f/x)",
+   "location": "LISBON GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204"
+  },
+  "Procter & Gamble::R000162204": {
+   "company": "Procter & Gamble",
+   "title": "Manufacturing Internship/Traineeship (M/F)",
+   "location": "Rakovnik",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Rakovnik/Manufacturing-Internship-Traineeship--M-F-_R000162204"
+  },
+  "Procter & Gamble::R000162247": {
+   "company": "Procter & Gamble",
+   "title": "Analytics & Insights Internship",
+   "location": "ROTTERDAM OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/ROTTERDAM-OFFICE/Analytics---Insights-Internship_R000162247"
+  },
+  "Procter & Gamble::R000143737": {
+   "company": "Procter & Gamble",
+   "title": "Production / Engineering - Internship / Thesis (m/f/d)",
+   "location": "Euskirchen; Wallduern; Marktheidenfeld; Kronberg; Gross-Gerau; Crailsheim; Berlin; Altfeld; Worms",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Euskirchen/Production---Engineering---Internship---Thesis--m-f-d-_R000143737"
+  },
+  "Procter & Gamble::R000143743": {
+   "company": "Procter & Gamble",
+   "title": "Process & Engineering Internship/Thesis (m/f/d)",
+   "location": "Kronberg; Crailsheim; Euskirchen",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Kronberg/Process---Engineering-Internship-Thesis--m-f-d-_R000143743"
+  },
+  "Procter & Gamble::R000150008": {
+   "company": "Procter & Gamble",
+   "title": "Manufacturing Process Engineer Internship",
+   "location": "JIJONA PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/JIJONA-PLANT/Manufacturing-Process-Engineer-Internship_R000150008"
+  },
+  "Procter & Gamble::R000153895": {
+   "company": "Procter & Gamble",
+   "title": "Supply Chain Network – Internship (m/f/d)",
+   "location": "Schwalbach Am Taunus; Kronberg; Worms",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Supply-Chain-Network---Internship--m-f-d-_R000153895"
+  },
+  "Procter & Gamble::R000157497": {
+   "company": "Procter & Gamble",
+   "title": "Engineering Internship - Irapuato Plant",
+   "location": "IRAPUATO PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/IRAPUATO-PLANT/Engineering-Internship---Irapuato-Plant_R000157497"
+  },
+  "Procter & Gamble::R000157499": {
+   "company": "Procter & Gamble",
+   "title": "Data & AI Engineering Internship",
+   "location": "CINCINNATI GENERAL OFFICES",
+   "reason": "no R&D keywords",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499"
+  },
+  "Procter & Gamble::R000158765": {
+   "company": "Procter & Gamble",
+   "title": "Product Supply Internship  - Barcelona (m/f/x)",
+   "location": "MATARO BUSINESS CENTER",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MATARO-BUSINESS-CENTER/Product-Supply-Internship----Barcelona--m-f-x-_R000158765"
+  },
+  "Procter & Gamble::R000160128": {
+   "company": "Procter & Gamble",
+   "title": "Media Ad-Operations Internship",
+   "location": "ROME GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/ROME-GENERAL-OFFICE/Media-Ad-Operations-Internship_R000160128"
+  },
+  "Procter & Gamble::R000160920": {
+   "company": "Procter & Gamble",
+   "title": "Summer Internship 2027: Purchases",
+   "location": "ISTANBUL GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/ISTANBUL-GENERAL-OFFICE/Summer-Internship-2027--Purchases_R000160920"
+  },
+  "Procter & Gamble::R000162236": {
+   "company": "Procter & Gamble",
+   "title": "P&G Indonesia Management Internship - BRAND",
+   "location": "JAKARTA GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/JAKARTA-GENERAL-OFFICE/P-G-Indonesia-Management-Internship---BRAND_R000162236"
+  },
+  "Procter & Gamble::R000139944": {
+   "company": "Procter & Gamble",
+   "title": "Internship or Thesis – Research & Development (m/f/d)",
+   "location": "Kronberg; Schwalbach Am Taunus",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Kronberg/Internship-or-Thesis---Research---Development--m-f-d-_R000139944"
+  },
+  "Procter & Gamble::R000154978": {
+   "company": "Procter & Gamble",
+   "title": "Clinical and Medical Internship - Pharmaziepraktikum (m/f/d)",
+   "location": "Schwalbach Am Taunus",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Clinical-and-Medical-Internship---Pharmaziepraktikum---f-m-d-_R000154978"
+  },
+  "Procter & Gamble::R000158842": {
+   "company": "Procter & Gamble",
+   "title": "P&G LEADgen Internship Program 2027 (Jeddah)",
+   "location": "JEDDAH JAMEEL SQUARE OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/JEDDAH-JAMEEL-SQUARE-OFFICE/P-G-LEADgen-Internship-Program-2027--Jeddah-_R000158842"
+  },
+  "Procter & Gamble::R000159972": {
+   "company": "Procter & Gamble",
+   "title": "Brand Management Summer Internship 2027",
+   "location": "STOCKHOLM GENERAL OFFICE; Stockholm",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/STOCKHOLM-GENERAL-OFFICE/Brand-Management-Summer-Internship-2027_R000159972"
+  },
+  "Procter & Gamble::R000160144": {
+   "company": "Procter & Gamble",
+   "title": "Supply Chain Summer Internship 2027",
+   "location": "STOCKHOLM GENERAL OFFICE; Stockholm",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/STOCKHOLM-GENERAL-OFFICE/Supply-Chain-Summer-Internship-2027_R000160144"
+  },
+  "Procter & Gamble::R000161190": {
+   "company": "Procter & Gamble",
+   "title": "«SHARP START» Internship in P&G Gillette",
+   "location": "Saint-Petersburg",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Saint-Petersburg/XMLNAME--SHARP-START--Internship-in-P-G-Gillette_R000161190"
+  },
+  "Procter & Gamble::R000161362": {
+   "company": "Procter & Gamble",
+   "title": "Research & Development Summer Internship 2027",
+   "location": "READING TECH CENTER",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/READING-TECH-CENTER/Research---Development-Summer-Internship-2027_R000161362"
+  },
+  "Procter & Gamble::R000160877": {
+   "company": "Procter & Gamble",
+   "title": "Summer Internship 2027: Brand Management",
+   "location": "ISTANBUL GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/ISTANBUL-GENERAL-OFFICE/Summer-Internship-2027--Brand-Management_R000160877"
+  },
+  "Procter & Gamble::R000160888": {
+   "company": "Procter & Gamble",
+   "title": "Summer Internship 2027: Supply Chain",
+   "location": "ISTANBUL GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/ISTANBUL-GENERAL-OFFICE/Summer-Internship-2027--Supply-Chain_R000160888"
+  },
+  "Procter & Gamble::R000160926": {
+   "company": "Procter & Gamble",
+   "title": "Summer Internship 2027: Analytics & Insights",
+   "location": "ISTANBUL GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/ISTANBUL-GENERAL-OFFICE/Summer-Internship-2027--Analytics---Insights_R000160926"
+  },
+  "Procter & Gamble::R000161259": {
+   "company": "Procter & Gamble",
+   "title": "P&G 2027 Summer Internship – Urlati Plant",
+   "location": "URLATI PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/URLATI-PLANT/P-G-2027-Summer-Internship---Urlati-Plant_R000161259"
+  },
+  "Procter & Gamble::R000162231": {
+   "company": "Procter & Gamble",
+   "title": "P&G Indonesia Management Internship - PRODUCT SUPPLY",
+   "location": "JAKARTA PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/JAKARTA-PLANT/P-G-Indonesia-Management-Internship---PRODUCT-SUPPLY_R000162231"
+  },
+  "Procter & Gamble::R000157957": {
+   "company": "Procter & Gamble",
+   "title": "Intelligent Controls and Automation Engineer Internship",
+   "location": "POMEZIA PLANT & TECH CENTER; GATTATICO PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/POMEZIA-PLANT--TECH-CENTER/Intelligent-Controls-and-Automation-Engineer-Internship_R000157957"
+  },
+  "Procter & Gamble::R000161774": {
+   "company": "Procter & Gamble",
+   "title": "Latin American Students - Panama Internship Program",
+   "location": "Panama",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Panama/Latin-American-Students---Panama-Internship-Program_R000161774"
+  },
+  "Procter & Gamble::R000161887": {
+   "company": "Procter & Gamble",
+   "title": "Manufacturing Process Engineer Internship (Gattatico Plant)",
+   "location": "GATTATICO PLANT",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/GATTATICO-PLANT/Manufacturing-Process-Engineer-Internship--Gattatico-Plant-_R000161887"
+  },
+  "Procter & Gamble::R000160922": {
+   "company": "Procter & Gamble",
+   "title": "Summer Internship 2027: Manufacturing | Gebze Plant",
+   "location": "GEBZE PLANT; SEKERPINAR DC",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/GEBZE-PLANT/Summer-Internship-2027--Manufacturing---Gebze-Plant_R000160922"
+  },
+  "Procter & Gamble::R000162388": {
+   "company": "Procter & Gamble",
+   "title": "Manufacturing - Process Engineer Internship (Pomezia Plant)",
+   "location": "POMEZIA PLANT & TECH CENTER",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/POMEZIA-PLANT--TECH-CENTER/Manufacturing---Process-Engineer-Internship--Pomezia-Plant-_R000162388"
+  },
+  "Procter & Gamble::R000158844": {
+   "company": "Procter & Gamble",
+   "title": "P&G LEADgen Internship Program 2027 - Process Engineer (Dammam)",
+   "location": "Dammam",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Dammam/P-G-LEADgen-Internship-Program-2027---Process-Engineer--Dammam-_R000158844"
+  },
+  "Procter & Gamble::R000160724": {
+   "company": "Procter & Gamble",
+   "title": "Hair Care Product research internship – Research & Development (m/f/d)",
+   "location": "Schwalbach Am Taunus",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Hair-Care-Product-research-internship---Research---Development--m-f-d-_R000160724"
+  },
+  "Procter & Gamble::R000154036": {
+   "company": "Procter & Gamble",
+   "title": "Engineering Internship - Automation/Mechanical/Mechatronic/Data Science/Chemical",
+   "location": "Brussels",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Engineering-Internship---Automation-Mechanical-Mechatronic-Data-Science-Chemical_R000154036"
+  },
+  "Procter & Gamble::R000161201": {
+   "company": "Procter & Gamble",
+   "title": "Media Ad-Operations Internship - Cat. Protette (L. 68/99)",
+   "location": "ROME GENERAL OFFICE",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/ROME-GENERAL-OFFICE/Media-Ad-Operations-Internship---Cat-Protette--L-68-99-_R000161201"
+  },
+  "Procter & Gamble::R000140927": {
+   "company": "Procter & Gamble",
+   "title": "Internship in Engineering, Quality, Production and Material Process & Delivery (m/f/d)",
+   "location": "Spittal A.D. Drau",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Spittal-AD-Drau/Internship-in-Engineering--Quality--Production-and-Material-Process---Delivery--m-f-d-_R000140927"
+  },
+  "Procter & Gamble::R000162188": {
+   "company": "Procter & Gamble",
+   "title": "[P&G LEADERSHIP CAMP] May/June 2027 Start Date Brand Management Internship",
+   "location": "Taguig City",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Taguig-City/XMLNAME--P-G-LEADERSHIP-CAMP--May-June-2027-Start-Date-Brand-Management-Internship_R000162188"
+  },
+  "Procter & Gamble::R000162185": {
+   "company": "Procter & Gamble",
+   "title": "[P&G Leadership Camp] May/June 2027 Start Date Product Supply Management Internship",
+   "location": "Cabuyao, Laguna; Taguig City",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Cabuyao-Laguna/XMLNAME--P-G-Leadership-Camp--May-June-2027-Start-Date-Product-Supply-Management-Internship_R000162185"
+  },
+  "Procter & Gamble::R000159889": {
+   "company": "Procter & Gamble",
+   "title": "Product Supply Internship/Co-Op Summer 2027/Stage ou programme coopératif en chaîne d'approvisionnement Été 2027",
+   "location": "GRTR TORONTO FULFILLMENT CTR",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/GRTR-TORONTO-FULFILLMENT-CTR/Product-Supply-Internship-Co-Op-Summer-2027-Stage-ou-programme-coopratif-en-chane-d-approvisionnement-t-2027_R000159889"
+  },
+  "Procter & Gamble::R000158888": {
+   "company": "Procter & Gamble",
+   "title": "Manufacturing & Engineering Technical Co-Op - May 2027 Start",
+   "location": "Belleville",
+   "reason": "not US",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Belleville/Manufacturing---Engineering-Technical-Co-Op---May-2027-Start_R000158888"
+  },
+  "Procter & Gamble::R000159711": {
+   "company": "Procter & Gamble",
+   "title": "Design Co-op Summer 2027",
+   "location": "CINCINNATI GENERAL OFFICES",
+   "reason": "no R&D keywords",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Design-Co-op-Summer-2027_R000159711"
+  },
+  "Procter & Gamble::R000162325": {
+   "company": "Procter & Gamble",
+   "title": "Electrical Co-Op",
+   "location": "MEHOOPANY PLANT",
+   "reason": "no R&D keywords",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MEHOOPANY-PLANT/Electrical-Co-Op_R000162325"
+  },
   "Unilever::R-1189152": {
    "company": "Unilever",
    "title": "Internship '27: Customer Development",
@@ -987,6 +3199,27 @@
    "location": "Rotterdam - Hofplein 19",
    "reason": "not US",
    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27-----Customer-Development---Category---Account-Management_R-1189150"
+  },
+  "Kenvue::2607049475W": {
+   "company": "Kenvue",
+   "title": "Environmental, Health, Safety Co-Op",
+   "location": "North America, United States, Pennsylvania, Lititz",
+   "reason": "no R&D keywords",
+   "url": "https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-Pennsylvania-Lititz/EHS-Co-Op---Spring-Summer-2027_2607049475W-1"
+  },
+  "Kenvue::2607049740W": {
+   "company": "Kenvue",
+   "title": "Customer Development Intern",
+   "location": "Europe/Middle East/Africa, Turkey, Istanbul, Istanbul",
+   "reason": "not US",
+   "url": "https://kenvue.wd5.myworkdayjobs.com/kenvue/job/EuropeMiddle-EastAfrica-Turkey-Istanbul-Istanbul/Customer-Development-Intern_2607049740W"
+  },
+  "Kenvue::2607049003W": {
+   "company": "Kenvue",
+   "title": "Multiple Associate Brand Manager Intern opportunities (4-month)",
+   "location": "North America, Canada, Ontario, Toronto",
+   "reason": "not US",
+   "url": "https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-Canada-Ontario-Toronto/Associate-Brand-Manager-Intern_2607049003W"
   },
   "Haleon::549788": {
    "company": "Haleon",
@@ -1022,6 +3255,62 @@
    "location": "Switzerland - Nyon",
    "reason": "not US",
    "url": "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Switzerland---Nyon/Environmental-Engineer---Intern_549360"
+  },
+  "Church & Dwight::R2026-15690": {
+   "company": "Church & Dwight",
+   "title": "QC Laboratory Intern",
+   "location": "Folkestone, Kent, United Kingdom",
+   "reason": "not US",
+   "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/Folkestone-Kent-United-Kingdom/QC-Laboratory-Intern_R2026-15690-1"
+  },
+  "Church & Dwight::R2026-15693": {
+   "company": "Church & Dwight",
+   "title": "Supply Planning Intern",
+   "location": "UK Corporate Office",
+   "reason": "not US",
+   "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/UK-Corporate-Office/Supply-Planning-Intern_R2026-15693-1"
+  },
+  "SC Johnson::31801": {
+   "company": "SC Johnson",
+   "title": "Intern, HRIS",
+   "location": "Philippines - Makati",
+   "reason": "not US",
+   "url": "https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines---Makati/Intern--HRIS_31801"
+  },
+  "SC Johnson::33625": {
+   "company": "SC Johnson",
+   "title": "Intern, Supply Chain",
+   "location": "Germany - Dusseldorf Erkrath",
+   "reason": "not US",
+   "url": "https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Germany---Dusseldorf-Erkrath/Intern--Supply-Chain_33625"
+  },
+  "SC Johnson::34211": {
+   "company": "SC Johnson",
+   "title": "Intern, Supply Chain",
+   "location": "Malaysia - Kuala Lumpur",
+   "reason": "not US",
+   "url": "https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Malaysia---Kuala-Lumpur/Intern-Supply-Chain_34211"
+  },
+  "SC Johnson::34481": {
+   "company": "SC Johnson",
+   "title": "Intern, Supply Chain",
+   "location": "Italy - Arese Milan",
+   "reason": "not US",
+   "url": "https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Italy---Arese-Milan/Intern--Supply-Chain_34481"
+  },
+  "SC Johnson::33545": {
+   "company": "SC Johnson",
+   "title": "Intern, Research & Development (Entomology)",
+   "location": "MYS - Petaling Jaya",
+   "reason": "not US",
+   "url": "https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/MYS---Petaling-Jaya/Intern--Research---Development--Entomology-_33545"
+  },
+  "SC Johnson::33544": {
+   "company": "SC Johnson",
+   "title": "Intern, Research & Development (Chemistry Formulator)",
+   "location": "MYS - Petaling Jaya",
+   "reason": "not US",
+   "url": "https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/MYS---Petaling-Jaya/Intern--Research---Development--Chemistry-Formulator-_33544"
   }
  }
 }
