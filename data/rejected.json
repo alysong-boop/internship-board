@@ -22,13 +22,6 @@
    "reason": "no R&D keywords",
    "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2026-Future-Talent-Program---Modeling---Informatics---Co-op_R416280"
   },
-  "Merck::R414564": {
-   "company": "Merck",
-   "title": "2027 Future Talent Program - Global Safety & Environment - Intern",
-   "location": "USA - New Jersey - Rahway; USA - Pennsylvania - West Point",
-   "reason": "no R&D keywords",
-   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Safety---Environment---Intern_R414564"
-  },
   "Merck::R416472": {
    "company": "Merck",
    "title": "Clinical Trial Coordinator - Intern",
@@ -442,6 +435,132 @@
    "reason": "no R&D keywords",
    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Data---Quantitative-Sciences-Statistical-Programming-Intern---Summer-2027_R1608542"
   },
+  "Amgen::R-253797": {
+   "company": "Amgen",
+   "title": "VAP Intern",
+   "location": "Singapore Affiliate - Duo Tower",
+   "reason": "not US",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/Singapore-Affiliate---Duo-Tower/VAP-Intern_R-253797"
+  },
+  "Amgen::R-261001": {
+   "company": "Amgen",
+   "title": "Data & Analytics Intern",
+   "location": "Netherlands - Breda",
+   "reason": "not US",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/Netherlands---Breda/Data---Analytics-Intern_R-261001"
+  },
+  "Amgen::R-253798": {
+   "company": "Amgen",
+   "title": "SEA Medical Affairs Intern",
+   "location": "Singapore Affiliate - Duo Tower",
+   "reason": "not US",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/Singapore-Affiliate---Duo-Tower/SEA-Medical-Affairs-Intern_R-253798"
+  },
+  "Amgen::R-260999": {
+   "company": "Amgen",
+   "title": "Contracts & Pricing Operations Intern",
+   "location": "Netherlands - Breda",
+   "reason": "not US",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/Netherlands---Breda/Global-Contracts---Pricing-Operations-Intern_R-260999"
+  },
+  "Amgen::R-261004": {
+   "company": "Amgen",
+   "title": "Global Transportation Excellence Intern",
+   "location": "Netherlands - Breda",
+   "reason": "not US",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/Netherlands---Breda/Global-Transportation-Excellence-Intern_R-261004"
+  },
+  "Amgen::R-260467": {
+   "company": "Amgen",
+   "title": "Grad Intern - Pathology Lab",
+   "location": "US - California - South San Francisco",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---Pathology-Lab_R-260467"
+  },
+  "Amgen::R-259820": {
+   "company": "Amgen",
+   "title": "Grad Intern - Biostatistics (Summer 2027)",
+   "location": "United States - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820"
+  },
+  "Amgen::R-260402": {
+   "company": "Amgen",
+   "title": "Undergrad Intern – Amgen Foundation (Summer 2027)",
+   "location": "United States - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Amgen-Foundation--Summer-2027-_R-260402"
+  },
+  "Amgen::R-259871": {
+   "company": "Amgen",
+   "title": "Grad Intern – Amgen Library (Summer 2027)",
+   "location": "United States - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871"
+  },
+  "Amgen::R-259640": {
+   "company": "Amgen",
+   "title": "Undergrad Clinical Immunology Intern (Summer 2027)",
+   "location": "US - California - Thousand Oaks",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Undergrad-Clinical-Immunology-Intern--Summer-2027-_R-259640"
+  },
+  "Amgen::R-260532": {
+   "company": "Amgen",
+   "title": "Translational Sciences undergrad intern (Summer 2027)",
+   "location": "US - California - South San Francisco",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Translational-Sciences-undergrad-intern--Summer-2027-_R-260532"
+  },
+  "Amgen::R-261449": {
+   "company": "Amgen",
+   "title": "Grad Intern - Computational Chemistry (summer 2027)",
+   "location": "United States - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Computational-Chemistry--summer-2027-_R-261449"
+  },
+  "Amgen::R-261445": {
+   "company": "Amgen",
+   "title": "Grad Intern – Computational Chemistry (summer 2027)",
+   "location": "United States - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Computational-Chemistry--summer-2027-_R-261445"
+  },
+  "Amgen::R-261206": {
+   "company": "Amgen",
+   "title": "Grad Intern - PKDM-BA (Summer 2027)",
+   "location": "US - California - South San Francisco",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---PKDM-BA--Summer-2027-_R-261206"
+  },
+  "Amgen::R-260757": {
+   "company": "Amgen",
+   "title": "Grad Intern - Global Patient Safety (Summer 2027)",
+   "location": "United States - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Global-Patient-Safety--Summer-2027-_R-260757"
+  },
+  "Amgen::R-259961": {
+   "company": "Amgen",
+   "title": "Grad Intern – Target Safety Risk Weighting and Evaluation Strategies (Summer 2027)",
+   "location": "United States - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Target-Safety-Risk-Weighting-and-Evaluation-Strategies--Summer-2027-_R-259961"
+  },
+  "Amgen::R-259864": {
+   "company": "Amgen",
+   "title": "Graduate Intern – R&D Execution, Operations & Strategy (R&D EOS)",
+   "location": "Canada - Burnaby",
+   "reason": "not US",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/Canada---Burnaby/Graduate-Intern---R-D-Execution--Operations---Strategy--R-D-EOS-_R-259864"
+  },
+  "Amgen::R-260873": {
+   "company": "Amgen",
+   "title": "Grad Intern – Global Medical Affairs Oncology (Summer 2027)",
+   "location": "United States - Remote",
+   "reason": "no R&D keywords",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Global-Medical-Affairs-Oncology--Summer-2027-_R-260873"
+  },
   "Genentech / Roche::202611-129030": {
    "company": "Genentech / Roche",
    "title": "2027 Summer Intern - Computational Science",
@@ -813,6 +932,83 @@
    "reason": "no R&D keywords",
    "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--Real-World-Evidence-Hematology-Intern_R-263840"
   },
+  "AstraZeneca::R-263638": {
+   "company": "AstraZeneca",
+   "title": "US Medical Affairs Diagnostics, Breast Cancer Intern",
+   "location": "US - Gaithersburg - MD",
+   "reason": "no R&D keywords",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs-Diagnostics--Breast-Cancer-Intern_R-263638"
+  },
+  "AstraZeneca::R-263555": {
+   "company": "AstraZeneca",
+   "title": "US Medical Affairs, Hematology-Lymphoma Intern",
+   "location": "US - Gaithersburg - MD",
+   "reason": "no R&D keywords",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--Hematology-Lymphoma-Intern_R-263555"
+  },
+  "AstraZeneca::R-263378": {
+   "company": "AstraZeneca",
+   "title": "Epidemiology Intern",
+   "location": "US - Boston - MA",
+   "reason": "PhD-only",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Epidemiology-Intern_R-263378-1"
+  },
+  "AstraZeneca::R-263260": {
+   "company": "AstraZeneca",
+   "title": "US Medical Affairs, AI & Knowledge Experience Intern",
+   "location": "US - Gaithersburg - MD",
+   "reason": "no R&D keywords",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--AI---Knowledge-Experience-Intern_R-263260"
+  },
+  "AstraZeneca::R-263257": {
+   "company": "AstraZeneca",
+   "title": "US Medical Affairs, Breast Cancer Intern",
+   "location": "US - Gaithersburg - MD",
+   "reason": "no R&D keywords",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--Breast-Cancer-Intern_R-263257"
+  },
+  "AstraZeneca::R-263167": {
+   "company": "AstraZeneca",
+   "title": "Manufacturing Solutions & Innovation Intern",
+   "location": "US - Gaithersburg - MD",
+   "reason": "no R&D keywords",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167"
+  },
+  "AstraZeneca::R-263146": {
+   "company": "AstraZeneca",
+   "title": "Internship - Insights & Business Excellence Intern (1 year)",
+   "location": "Taiwan",
+   "reason": "not US",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Taiwan/Internship---Insights---Business-Excellence-Intern--1-year-_R-263146"
+  },
+  "AstraZeneca::R-263145": {
+   "company": "AstraZeneca",
+   "title": "Internship - Medical Intern (6 months/1 year)",
+   "location": "Taiwan",
+   "reason": "not US",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Taiwan/Internship---Medical-Intern--6-months-1-year-_R-263145"
+  },
+  "AstraZeneca::R-263075": {
+   "company": "AstraZeneca",
+   "title": "US Medical Affairs Oncology Medical Diagnostics Intern",
+   "location": "US - Gaithersburg - MD",
+   "reason": "no R&D keywords",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs-Oncology-Medical-Diagnostics-Intern_R-263075"
+  },
+  "AstraZeneca::R-262630": {
+   "company": "AstraZeneca",
+   "title": "Preclinical Mathematical Modeling Internship",
+   "location": "US - Cambridge Kendall SQ - MA",
+   "reason": "no R&D keywords",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630"
+  },
+  "AstraZeneca::R-262606": {
+   "company": "AstraZeneca",
+   "title": "Medical Writing Intern",
+   "location": "US - Boston - MA",
+   "reason": "PhD-only",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Medical-Writing-Intern_R-262606-1"
+  },
   "GSK::451301": {
    "company": "GSK",
    "title": "Internship : Vaccines Distribution Planning, Belgium – 2027",
@@ -848,26 +1044,12 @@
    "reason": "not US",
    "url": "https://takeda.wd502.myworkdayjobs.com/External/job/Tianjin-China/Admin-Intern_R0194176"
   },
-  "Moderna::Norwood, Massachusetts": {
-   "company": "Moderna",
-   "title": "Co-Op, Supply Chain & Logistics",
-   "location": "Norwood, Massachusetts; Supply Chain",
-   "reason": "no R&D keywords",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Supply-Chain---Logistics_R19949"
-  },
   "Moderna::Princeton, New Jersey": {
    "company": "Moderna",
    "title": "Intern, Biospecimen Logistics",
    "location": "Princeton, New Jersey; Clinical Development",
    "reason": "no R&D keywords",
    "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Princeton-New-Jersey/Intern--Biospecimen-Logistics_R19854"
-  },
-  "Moderna::Cambridge, Massachusetts": {
-   "company": "Moderna",
-   "title": "2027 Co-Op, mRNA Design Engineering",
-   "location": "Cambridge, Massachusetts; Clinical Development",
-   "reason": "no R&D keywords",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20125"
   },
   "Moderna::Laval - Canada": {
    "company": "Moderna",
@@ -2170,6 +2352,13 @@
    "location": "Warsaw, Poland; Sofia, Bulgaria",
    "reason": "not US",
    "url": "https://mdlz.wd3.myworkdayjobs.com/External/job/Warsaw-Poland/Taste-The-Future---Procurement-Strategy-and-Data-Internship--m-f-x-_R-182025-1"
+  },
+  "Conagra::Req-040859": {
+   "company": "Conagra",
+   "title": "Engineering Internship",
+   "location": "Russellville, Arkansas",
+   "reason": "no R&D keywords",
+   "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Russellville-Arkansas/Engineering-Internship_Req-040859"
   },
   "Campbell's::Req-69235": {
    "company": "Campbell's",
