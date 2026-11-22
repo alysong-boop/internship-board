@@ -1,6 +1,31 @@
 {
- "updated": "2026-11-21T12:25-05:00",
+ "updated": "2026-11-22T12:47-05:00",
  "postings": [
+  {
+   "id": "Takeda::R0193569",
+   "job_id": "R0193569",
+   "first_seen": "2026-11-22",
+   "company": "Takeda",
+   "title": "2027 Summer Internship Program: Applied AI for Formulation Data Science Intern",
+   "industry": "pharma",
+   "location": "Lexington, MA",
+   "remote": false,
+   "url": "https://takeda.wd502.myworkdayjobs.com/External/job/Lexington-MA/XMLNAME-2027-Summer-Internship-Program--Applied-AI-for-Formulation-Data-Science-Intern_R0193569",
+   "posted": "2026-11-19",
+   "term": "Summer 2027",
+   "eligibility_flag": "rising junior OK",
+   "source": "workday",
+   "feed": "Takeda",
+   "matched": [
+    "formulation",
+    "research",
+    "product development",
+    "drug product"
+   ],
+   "score": 10,
+   "last_seen": "2026-11-22",
+   "status": "open"
+  },
   {
    "id": "Amgen::R-259434",
    "job_id": "R-259434",
@@ -2872,7 +2897,7 @@
     "chemical engineering"
    ],
    "score": 6,
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "status": "open"
   },
   {
@@ -2990,7 +3015,7 @@
     "CMC"
    ],
    "score": 4,
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "status": "open"
   },
   {
@@ -3083,7 +3108,7 @@
     "analytical"
    ],
    "score": 3,
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "status": "open"
   },
   {
@@ -3108,7 +3133,7 @@
     "bioprocess"
    ],
    "score": 3,
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "status": "open"
   },
   {
@@ -3223,7 +3248,7 @@
     "analytical"
    ],
    "score": 1,
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "status": "open"
   },
   {
