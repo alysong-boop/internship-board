@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:47-05:00",
+ "updated": "2026-11-23T17:00-05:00",
  "postings": [
   {
    "id": "Takeda::R0193569",
@@ -2746,7 +2746,7 @@
     "drug substance"
    ],
    "score": 8,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "status": "open"
   },
   {
@@ -2797,7 +2797,7 @@
     "manufacturing science"
    ],
    "score": 7,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "status": "open"
   },
   {
@@ -2897,7 +2897,7 @@
     "chemical engineering"
    ],
    "score": 6,
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "status": "open"
   },
   {
@@ -2944,7 +2944,7 @@
     "analytical"
    ],
    "score": 6,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-23",
    "status": "open"
   },
   {
@@ -3015,7 +3015,7 @@
     "CMC"
    ],
    "score": 4,
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "status": "open"
   },
   {
@@ -3108,7 +3108,7 @@
     "analytical"
    ],
    "score": 3,
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "status": "open"
   },
   {
@@ -3133,7 +3133,7 @@
     "bioprocess"
    ],
    "score": 3,
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "status": "open"
   },
   {
@@ -3248,7 +3248,7 @@
     "analytical"
    ],
    "score": 1,
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-23",
    "status": "open"
   },
   {
