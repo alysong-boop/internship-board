@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:00-05:00",
+ "updated": "2026-11-24T15:38-05:00",
  "postings": [
   {
    "id": "Takeda::R0193569",
@@ -2747,7 +2747,7 @@
    ],
    "score": 8,
    "last_seen": "2026-11-23",
-   "status": "open"
+   "status": "closed"
   },
   {
    "id": "Haleon::548428",
@@ -2798,7 +2798,7 @@
    ],
    "score": 7,
    "last_seen": "2026-11-23",
-   "status": "open"
+   "status": "closed"
   },
   {
    "id": "Genentech / Roche::202611-128802",
@@ -2897,7 +2897,7 @@
     "chemical engineering"
    ],
    "score": 6,
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "status": "open"
   },
   {
@@ -2944,7 +2944,7 @@
     "analytical"
    ],
    "score": 6,
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "status": "open"
   },
   {
@@ -3015,7 +3015,7 @@
     "CMC"
    ],
    "score": 4,
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "status": "open"
   },
   {
@@ -3108,7 +3108,7 @@
     "analytical"
    ],
    "score": 3,
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "status": "open"
   },
   {
@@ -3133,7 +3133,7 @@
     "bioprocess"
    ],
    "score": 3,
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "status": "open"
   },
   {
@@ -3248,7 +3248,7 @@
     "analytical"
    ],
    "score": 1,
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "status": "open"
   },
   {
